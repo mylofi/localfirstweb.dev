@@ -14,11 +14,7 @@
 }
 
 html {
-  line-height: 1.8rem;
-  color: #000;
   font-family: Kodchasan;
-  height: 100%;
-  background: #fff;
 }
 
 body {
@@ -27,6 +23,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-height: 100vh;
 }
 
 #logotype {
