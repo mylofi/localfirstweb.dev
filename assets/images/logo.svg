@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <defs>
+    <g id='p'>
+      <path d="M-120 -270a120 120 0 0 1 240 0 480 120 -50 01-120 270 480 120 50 01-120-270" />
+      <circle cx="0" cy="-270" r="60" stroke-width="40" stroke="#fff" fill="none" />
+    </g>
+  </defs>
+  <use href="#p" transform="translate(400,535) rotate(-90)" fill="#ccc" />
+  <use href="#p" transform="translate(400,535) rotate(-45)" fill="#999" />
+  <use href="#p" transform="translate(400,535) rotate(0)" fill="#666" />
+  <use href="#p" transform="translate(400,535) rotate(45)" fill="#333" />
+  <use href="#p" transform="translate(400,535) rotate(90)" fill="#e6000e" />
+</svg>

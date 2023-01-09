@@ -1,0 +1,66 @@
+---
+layout: compress
+---
+
+<html lang="en">
+  <head>
+    <link
+      rel="preload"
+      as="font"
+      href="/assets/fonts/kodchasan.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="preload"
+      as="font"
+      href="/assets/fonts/kodchasan_bold.woff2"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
+    <link
+      href="https://www.googletagmanager.com/gtag/js?id=G-0HGP6VFVJ3"
+      rel="preload"
+      as="script"
+    />
+
+    <title>{{site.title}}</title>
+    <meta name="description" content="{{site.description}}" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{site.title}}" />
+    <meta property="og:description" content="{{site.description}}" />
+    <meta property="og:url" content="{{site.url}}" />
+    <meta property="og:image" content="/assets/images/logo.png" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{site.title}}" />
+    <meta name="twitter:description" content="{{site.description}}" />
+    <meta name="twitter:image" content="/assets/images/logo.png" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg" />
+    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="canonical" href="{{site.url}}" />
+  </head>
+  <body>
+    <div id="logotype">
+      <img src="/assets/images/logo.svg" />
+      <div id="title1">Local First</div>
+      <div id="title2">Web Development</div>
+    </div>
+  </body>
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-0HGP6VFVJ3"
+  />
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function g() {
+      dataLayer.push(arguments);
+    }
+    g('js', new Date());
+    g('config', 'G-0HGP6VFVJ3');
+  </script>
+</html>

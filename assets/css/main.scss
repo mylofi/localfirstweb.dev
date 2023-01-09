@@ -1,0 +1,51 @@
+---
+---
+
+@font-face {
+  font-family: Kodchasan;
+  src: url(/assets/fonts/kodchasan.woff2) format("woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Kodchasan;
+  font-weight: 600;
+  src: url(/assets/fonts/kodchasan_bold.woff2) format("woff2");
+}
+
+html {
+  line-height: 1.8rem;
+  color: #000;
+  font-family: Kodchasan;
+  height: 100%;
+  background: #fff;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#logotype {
+  text-align: center;
+  color: #fff;
+  img {
+    width: 8rem;
+    height: 8rem;
+    display: block;
+    margin: 0 auto -1rem;
+  }
+  #title1 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    line-height: 2rem;
+  }
+  #title2 {
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1rem;
+  }
+}

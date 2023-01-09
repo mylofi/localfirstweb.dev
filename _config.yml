@@ -1,0 +1,19 @@
+timezone: America/Los_Angeles
+locale: en_us
+name: Local First Web Development
+title: Local First Web Development
+description: A fresh way to think about building web applications.
+url: https://localfirstweb.dev
+author:
+  name: James Pearce
+  url: https://tripleodeon.com
+  facebook: jamesgpearce
+  twitter: jamespearce
+
+destination: ./_site
+exclude: ['.gitignore', 'CNAME', '.prettierrc']
+port: 9001
+
+sass:
+  style: compressed
+  sass_dir: assets/css
