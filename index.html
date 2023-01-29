@@ -6,54 +6,68 @@ layout: compress
 <html lang="en">
   <head>
     <link
-      rel="preload"
       as="font"
+      crossorigin="anonymous"
       href="/assets/fonts/kodchasan.woff2"
-      type="font/woff2"
-      crossorigin="anonymous"
-    />
-    <link
       rel="preload"
-      as="font"
-      href="/assets/fonts/kodchasan_bold.woff2"
       type="font/woff2"
-      crossorigin="anonymous"
     />
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
     <link
+      as="font"
+      crossorigin="anonymous"
+      href="/assets/fonts/kodchasan_bold.woff2"
+      rel="preload"
+      type="font/woff2"
+    />
+    <link href="https://www.googletagmanager.com/" rel="dns-prefetch" />
+    <link
+      as="script"
       href="https://www.googletagmanager.com/gtag/js?id=G-0HGP6VFVJ3"
       rel="preload"
-      as="script"
     />
 
-    <title>{{site.title}}</title>
-    <meta name="description" content="{{site.description}}" />
+    <title>{{ site.title }}</title>
+    <meta content="{{site.description}}" name="description" />
 
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{site.title}}" />
-    <meta property="og:description" content="{{site.description}}" />
-    <meta property="og:url" content="{{site.url}}" />
-    <meta property="og:image" content="/assets/images/logo.png" />
+    <meta content="website" property="og:type" />
+    <meta content="{{site.title}}" property="og:title" />
+    <meta content="{{site.description}}" property="og:description" />
+    <meta content="{{site.url}}" property="og:url" />
+    <meta content="/assets/images/logo.png" property="og:image" />
 
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="{{site.title}}" />
-    <meta name="twitter:description" content="{{site.description}}" />
-    <meta name="twitter:image" content="/assets/images/logo.png" />
+    <meta content="summary" name="twitter:card" />
+    <meta content="{{site.title}}" name="twitter:title" />
+    <meta content="{{site.description}}" name="twitter:description" />
+    <meta content="/assets/images/logo.png" name="twitter:image" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg" />
-    <link rel="stylesheet" href="/assets/css/main.css" />
-    <link rel="canonical" href="{{site.url}}" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link href="/assets/images/logo.svg" rel="icon" type="image/svg+xml" />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <link href="{{site.url}}" rel="canonical" />
   </head>
+
   <body>
-    <div id="logotype">
+    <header>
       <img
-        src="/assets/images/logo.svg"
         alt="Local First Web Development Logo"
+        src="/assets/images/logo.svg"
       />
-      <div id="title1">Local First</div>
-      <div id="title2">Web Development</div>
-    </div>
+      <h1>
+        Local First
+        <span>Web Development</span>
+      </h1>
+    </header>
+    <summary>
+      So, you want to build a local-first web application, that works offline,
+      and where its data is hosted ...
+    </summary>
+    <main>
+      {% include section.html title="Read" data=site.data.read %} {% include
+      section.html title="Watch" data=site.data.watch %} {% include section.html
+      title="Store" data=site.data.store %} {% include section.html
+      title="Synchronize" data=site.data.synchronize %} {% include section.html
+      title="Examples" data=site.data.examples %}
+    </main>
   </body>
   <script
     async
