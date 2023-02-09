@@ -83,6 +83,12 @@
             "icon": "https://rxdb.info/files/logo/logo.svg"
           },
           {
+            "title": "VLCN",
+            "author": "Matt Crinklaw-Vogt",
+            "url": "https://vlcn.io",
+            "icon": "https://vlcn.io/assets/isometrics/hand-cube.png"
+          },
+          {
             "title": "TinyBase",
             "author": "James Pearce",
             "url": "https://tinybase.org",
@@ -151,6 +157,12 @@
             "author": "@pvh",
             "url": "https://twitter.com/pvh",
             "icon": "https://pbs.twimg.com/profile_images/1328185619030306817/E4HOEB1f_200x200.jpg"
+          },
+          {
+            "title": "Matt Crinklaw-Vogt",
+            "author": "@tantaman",
+            "url": "https://twitter.com/tantaman",
+            "icon": "https://pbs.twimg.com/profile_images/1534358445083791367/cQxb9f9X_200x200.jpg"
           },
           {
             "title": "Grant Forrest",
