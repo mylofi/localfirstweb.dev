@@ -1,26 +1,52 @@
 ---
 ---
 
-@font-face {
-  font-family: Kodchasan;
-  font-weight: 300;
-  src: url(/assets/fonts/kodchasan.woff2) format("woff2");
-}
+$accent: #e6000e;
+$text-color: #ccc;
+$text-color-bright: #fff;
+$font-weight: 200;
 
 @font-face {
-  font-family: Kodchasan;
-  font-weight: 700;
-  src: url(/assets/fonts/kodchasan_bold.woff2) format("woff2");
+  font-family: Archivo;
+  src: url(/assets/fonts/archivo.woff2) format("woff2");
 }
 
 body {
-  background: #000;
-  color: #fff;
-  font-family: Kodchasan;
+  background: #111;
+  color: $text-color;
+  font-family: Archivo;
+  font-weight: $font-weight;
   margin: 0;
 }
 
-header {
+h1,
+h2,
+h3 {
+  letter-spacing: -0.05rem;
+  font-weight: 900;
+}
+
+h1,
+h2 {
+  color: $text-color-bright;
+}
+
+header,
+footer {
+  position: relative;
+  padding: 1rem 0 2rem;
+  &::before {
+    content: "";
+    background: $accent;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    filter: blur(10rem);
+    border-radius: 20%;
+    height: 15rem;
+  }
   img {
     display: block;
     height: 8rem;
@@ -29,37 +55,108 @@ header {
   }
   h1 {
     margin: 0;
-    font-size: 1.75rem;
+    font-size: 2rem;
     line-height: 2rem;
+    color: $text-color-bright;
     span {
       display: block;
-      font-size: 1rem;
-      font-weight: 300;
-      line-height: 1rem;
+      font-size: 1.35rem;
+      font-weight: $font-weight;
+      line-height: 1.35rem;
+      letter-spacing: 0rem;
     }
   }
 }
 
 header,
-summary {
-  border-bottom: 1px solid #666;
-  padding-bottom: 2rem;
-  margin: 0 auto 2rem;
-  max-width: 48rem;
+summary,
+footer {
+  max-width: 22rem;
+  margin: 0 auto;
   text-align: center;
 }
 
+b {
+  margin: 2rem;
+  color: $text-color-bright;
+  display: block;
+  font-weight: 400;
+  text-align: center;
+}
+
+em {
+  color: $accent;
+  font-style: normal;
+}
+
+a {
+  color: $text-color-bright;
+  text-decoration: none;
+  &:hover {
+    color: $accent;
+  }
+}
+
 main {
+  max-width: 22rem;
   column-gap: 4rem;
   display: grid;
   grid-template-columns: 1fr;
   margin: auto;
-  row-gap: 3rem;
+  row-gap: 1rem;
+  h2 {
+    margin: 2rem 0 1rem;
+  }
+  h3 {
+    margin: 0 0 2rem;
+  }
+  section {
+    width: 100%;
+    max-width: 22rem;
+  }
+}
+
+ul {
+  padding: 0;
+  li {
+    margin: 1rem 0;
+    padding-left: 3rem;
+    position: relative;
+    overflow: hidden;
+    max-width: 19rem;
+    height: 3.5rem;
+    display: block;
+    img {
+      width: 2rem;
+      height: 2rem;
+      position: absolute;
+      left: 0rem;
+      object-fit: contain;
+    }
+    a {
+      font-weight: 400;
+    }
+    small {
+      display: block;
+      font-style: italic;
+      font-size: 0.8rem;
+      padding-bottom: 0.25rem;
+    }
+  }
 }
 
 @media (min-width: 48rem) {
+  header,
+  summary {
+    max-width: 36rem;
+  }
   main {
-    grid-template-columns: 1fr 1fr;
     max-width: 48rem;
+    grid-template-columns: 1fr 1fr;
+    h2,
+    b {
+      text-align: center;
+      grid-column: span 2;
+    }
   }
 }

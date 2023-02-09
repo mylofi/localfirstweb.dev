@@ -8,14 +8,7 @@ layout: compress
     <link
       as="font"
       crossorigin="anonymous"
-      href="/assets/fonts/kodchasan.woff2"
-      rel="preload"
-      type="font/woff2"
-    />
-    <link
-      as="font"
-      crossorigin="anonymous"
-      href="/assets/fonts/kodchasan_bold.woff2"
+      href="/assets/fonts/archivo.woff2"
       rel="preload"
       type="font/woff2"
     />
@@ -49,25 +42,59 @@ layout: compress
   <body>
     <header>
       <img
-        alt="Local First Web Development Logo"
+        alt="Local-First Web Development Logo"
         src="/assets/images/logo.svg"
       />
       <h1>
-        Local First
+        Local-First
         <span>Web Development</span>
       </h1>
     </header>
     <summary>
-      So, you want to build a local-first web application, that works offline,
-      and where its data is hosted ...
+      So, you want to build an app that has its data co-located with its UI?
+      That works offline? That synchronizes between clients? And that lets its
+      users own their data?
+      <b>Welcome to the world of local-first web&nbsp;development.</b>
     </summary>
     <main>
-      {% include section.html title="Read" data=site.data.read %} {% include
-      section.html title="Watch" data=site.data.watch %} {% include section.html
-      title="Store" data=site.data.store %} {% include section.html
-      title="Synchronize" data=site.data.synchronize %} {% include section.html
-      title="Examples" data=site.data.examples %}
+      {%for group in site.data.content%}
+      <h2><em>{{group.index}}.</em> {{group.title}}</h2>
+      {%for section in group.sections%}
+      <section>
+        <h3>{{section.title}}</h3>
+        <ul>
+          {%for item in section.items%}
+          <li>
+            <img src="{{item.icon}}" />
+            <a href="{{item.url}}" target="_blank">{{item.title}}</a>
+            <small>{{item.author}}</small>
+          </li>
+          {%endfor%}
+        </ul>
+      </section>
+      {%endfor%} {%endfor%}
+      <b>
+        <a
+          href="https://github.com/localfirstweb/localfirstweb.dev/tree/main/_data/content.json"
+          >✍️ Edit the lists</a
+        >
+        or
+        <a
+          href="https://github.com/localfirstweb/localfirstweb.dev/tree/main/_data/content.json"
+          >🎨 redesign the page!</a
+        >
+      </b>
     </main>
+    <footer>
+      <img
+        alt="Local-First Web Development Logo"
+        src="/assets/images/logo.svg"
+      />
+      <h1>
+        Local-First
+        <span>Web Development</span>
+      </h1>
+    </footer>
   </body>
   <script
     async
