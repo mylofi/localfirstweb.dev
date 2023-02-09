@@ -43,8 +43,9 @@ footer {
     left: 0;
     top: 0;
     z-index: -1;
-    filter: blur(10rem);
-    border-radius: 20%;
+    filter: blur(8rem);
+    border-radius: 50%;
+    transform: translate3d(0, 0, 0);
     height: 15rem;
   }
   img {
