@@ -120,6 +120,12 @@
             "icon": "https://www.instantdb.com/playful_sun.svg"
           },
           {
+            "title": "Gun",
+            "author": "Mark Nadal",
+            "url": "https://gun.eco",
+            "icon": "https://gun.eco/icons/icon-48x48.png?v=dfecf3c0fa09798b200a8a8b9fa0f172"
+          },
+          {
             "title": "WatermelonDB",
             "author": "Nozbe",
             "url": "https://watermelondb.dev",
