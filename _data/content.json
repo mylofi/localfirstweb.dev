@@ -95,6 +95,12 @@
             "icon": "https://tinybase.org/favicon.svg"
           },
           {
+            "title": "ElectricSQL",
+            "author": "ElectricSQL team",
+            "url": "https://electric-sql.com",
+            "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
+          },
+          {
             "title": "WatermelonDB",
             "author": "Nozbe",
             "url": "https://watermelondb.dev",
