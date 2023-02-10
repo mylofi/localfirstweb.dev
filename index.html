@@ -60,7 +60,7 @@ layout: compress
       {%for group in site.data.content%}
       <h2><em>{{group.index}}.</em> {{group.title}}</h2>
       {%for section in group.sections%}
-      <section>
+      <section class="{{section.class}}">
         <h3>{{section.title}}</h3>
         <ul>
           {%for item in section.items%}

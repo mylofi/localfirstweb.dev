@@ -69,6 +69,7 @@
     "sections": [
       {
         "title": "Storing data",
+        "class": "row2",
         "items": [
           {
             "title": "PouchDB",
@@ -129,6 +130,11 @@
             "url": "https://automerge.org",
             "icon": "https://automerge.org/img/favicon.ico"
           },
+        ]
+      },
+      {
+        "title": "Examples",
+        "items": [
           {
             "title": "CRDT tutorials",
             "author": "James Addison",
@@ -151,6 +157,7 @@
     "sections": [
       {
         "title": "Folks to follow",
+        "class": "row2",
         "items": [
           {
             "title": "Johannes Schickling",
@@ -191,7 +198,18 @@
         ]
       },
       {
-        "title": "Apps you can try",
+        "title": "Communities to join",
+        "items": [
+          {
+            "title": "Braid",
+            "author": "IETF & members",
+            "url": "https://braid.org",
+            "icon": "https://www.ietf.org/lib/dt/9.8.0/ietf/images/ietf-logo-nor-mask.svg"
+          }
+        ]
+      },
+      {
+        "title": "Apps to try",
         "items": [
           {
             "title": "Actual",
