@@ -95,6 +95,12 @@
             "icon": "https://tinybase.org/favicon.svg"
           },
           {
+            "title": "WatermelonDB",
+            "author": "Nozbe",
+            "url": "https://watermelondb.dev",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
             "title": "SyncedStore",
             "author": "Yousef El-Dardiry",
             "url": "https://syncedstore.org",
@@ -169,6 +175,12 @@
             "author": "@gaforres",
             "url": "https://twitter.com/gaforres",
             "icon": "https://pbs.twimg.com/profile_images/1350947174645956609/Ebe_Qd46_200x200.jpg"
+          },
+          {
+            "title": "Geoffrey Litt",
+            "author": "@geoffreylitt",
+            "url": "https://twitter.com/geoffreylitt",
+            "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
           }
         ]
       },
