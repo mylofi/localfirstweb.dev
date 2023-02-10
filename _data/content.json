@@ -143,6 +143,12 @@
             "icon": "https://automerge.org/img/favicon.ico"
           },
           {
+            "title": "Replicache",
+            "author": "Rocicorp",
+            "url": "https://replicache.dev",
+            "icon": "https://replicache.dev/icons/favicon-32x32.png"
+          },
+          {
             "title": "Evolu",
             "author": "Daniel Steigerwald",
             "url": "https://github.com/evoluhq/evolu",
