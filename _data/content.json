@@ -19,6 +19,12 @@
             "icon": "https://riffle.systems/favicon-32x32.png"
           },
           {
+            "title": "Developing local-first software",
+            "author": "James Arthur",
+            "url": "https://electric-sql.com/blog/2023/02/09/developing-local-first-software",
+            "icon": "/assets/images/developing-local-first.png"
+          },
+          {
             "title": "What if we had local-first software?",
             "author": "@adlrocha",
             "url": "https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first",
