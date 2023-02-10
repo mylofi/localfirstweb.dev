@@ -41,6 +41,12 @@
             "author": "Jared Forsyth",
             "url": "https://jaredforsyth.com/posts/in-search-of-a-local-first-database",
             "icon": "https://jaredforsyth.com/images/logo/JF_black_32.png"
+          },
+          {
+            "title": "End-to-End Encryption in the Browser",
+            "author": "vjeux",
+            "url": "https://blog.excalidraw.com/end-to-end-encryption/",
+            "icon": "https://excalidraw.com/favicon.ico"
           }
         ]
       },
