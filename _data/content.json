@@ -108,6 +108,12 @@
             "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
           },
           {
+            "title": "Instant",
+            "author": "Stepan Parunashvili",
+            "url": "https://www.instantdb.com",
+            "icon": "https://www.instantdb.com/playful_sun.svg"
+          },
+          {
             "title": "WatermelonDB",
             "author": "Nozbe",
             "url": "https://watermelondb.dev",
