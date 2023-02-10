@@ -165,6 +165,12 @@
             "author": "Daniel Steigerwald",
             "url": "https://github.com/evoluhq/evolu",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "hocuspocus",
+            "author": "ueberdosis",
+            "url": "https://tiptap.dev/hocuspocus/",
+            "icon": "https://yjs.dev/images/logo/yjs.svg"
           }
         ]
       },
