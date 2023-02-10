@@ -166,6 +166,12 @@
         "title": "Examples",
         "items": [
           {
+            "title": "lo-fi",
+            "author": "Grant Forrest",
+            "url": "https://lo-fi.gfor.rest",
+            "icon": "https://lo-fi.gfor.rest/img/logo.png"
+          },
+          {
             "title": "CRDT tutorials",
             "author": "James Addison",
             "url": "https://github.com/siliconjungle/crdt-tutorials",
@@ -176,12 +182,6 @@
             "author": "James Long",
             "url": "https://github.com/jlongster/crdt-example-app",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
-          },
-          {
-            "title": "lo-fi",
-            "author": "Grant Forrest",
-            "url": "https://lo-fi.gfor.rest",
-            "icon": "https://lo-fi.gfor.rest/img/logo.png"
           }
         ]
       }
