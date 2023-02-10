@@ -236,6 +236,12 @@
             "author": "@geoffreylitt",
             "url": "https://twitter.com/geoffreylitt",
             "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
+          },
+          {
+            "title": "James Pearce",
+            "author": "@jamespearce",
+            "url": "https://twitter.com/jamespearce",
+            "icon": "https://pbs.twimg.com/profile_images/1550560609258831873/R3sP0ze4_200x200.jpg"
           }
         ]
       },
@@ -247,6 +253,12 @@
             "author": "IETF & members",
             "url": "https://braid.org",
             "icon": "https://www.ietf.org/lib/dt/9.8.0/ietf/images/ietf-logo-nor-mask.svg"
+          },
+          {
+            "title": "#LFW.dev Discord",
+            "author": "Local First Web Builders",
+            "url": "https://discord.gg/ZRrwZxn4rW",
+            "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
           }
         ]
       },
