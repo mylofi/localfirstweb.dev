@@ -128,6 +128,12 @@
             "author": "James Long",
             "url": "https://github.com/jlongster/crdt-example-app",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "lo-fi",
+            "author": "Grant Forrest",
+            "url": "https://lo-fi.gfor.rest",
+            "icon": "https://lo-fi.gfor.rest/img/logo.png"
           }
         ]
       }
@@ -186,6 +192,12 @@
             "author": "Excalidraw contributors",
             "url": "https://excalidraw.com",
             "icon": "https://excalidraw.com/favicon.ico"
+          },
+          {
+            "title": "Gnocchi.club",
+            "author": "Grant Forrest",
+            "url": "https://gnocchi.club",
+            "icon": "https://gnocchi.club/android-chrome-512x512.png"
           }
         ]
       }
