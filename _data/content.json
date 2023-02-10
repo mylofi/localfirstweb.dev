@@ -22,7 +22,7 @@
             "title": "Developing local-first software",
             "author": "James Arthur",
             "url": "https://electric-sql.com/blog/2023/02/09/developing-local-first-software",
-            "icon": "/assets/images/developing-local-first.png"
+            "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
           },
           {
             "title": "What if we had local-first software?",
