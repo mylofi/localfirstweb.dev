@@ -29,6 +29,12 @@
             "author": "James Pearce",
             "url": "https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data",
             "icon": "https://tripleodeon.com/favicon.ico"
+          },
+          {
+            "title": "In search of a local-first database",
+            "author": "Jared Forsyth",
+            "url": "https://jaredforsyth.com/posts/in-search-of-a-local-first-database",
+            "icon": "https://jaredforsyth.com/images/logo/JF_black_32.png"
           }
         ]
       },
