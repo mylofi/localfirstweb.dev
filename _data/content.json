@@ -120,6 +120,13 @@
             "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
           },
           {
+            "title": "Evolu",
+            "author": "Daniel Steigerwald",
+            "url": "https://www.evolu.dev/",
+            "icon": "https://raw.githubusercontent.com/evoluhq/evolu/main/apps/web/public/favicon-32x32.png"
+          },
+
+          {
             "title": "Instant",
             "author": "Stepan Parunashvili",
             "url": "https://www.instantdb.com",
@@ -165,12 +172,6 @@
             "author": "Rocicorp",
             "url": "https://replicache.dev",
             "icon": "https://replicache.dev/icons/favicon-32x32.png"
-          },
-          {
-            "title": "Evolu",
-            "author": "Daniel Steigerwald",
-            "url": "https://github.com/evoluhq/evolu",
-            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
           },
           {
             "title": "hocuspocus",
