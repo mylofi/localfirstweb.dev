@@ -76,6 +76,12 @@
             "author": "Martin Kleppmann",
             "url": "https://www.youtube.com/watch?v=x7drE24geUw",
             "icon": "https://img.youtube.com/vi/x7drE24geUw/sddefault.jpg"
+          },
+          {
+           "title":"AWS reInvent 2019: Data Driven Mobile & Web Apps",
+            "author":"Richard Threlkeld",
+            "url": "https://www.youtube.com/watch?v=KcYl6_We0EU",
+            "icon":"https://d0.awsstatic.com/logos/powered-by-aws-white.png"
           }
         ]
       }
@@ -177,6 +183,12 @@
             "author": "ueberdosis",
             "url": "https://tiptap.dev/hocuspocus/",
             "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Amplify DataStore",
+            "author": "Amazon Web Services",
+            "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
+            "icon": "https://d0.awsstatic.com/logos/powered-by-aws-white.png"
           }
         ]
       },
