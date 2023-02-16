@@ -159,5 +159,8 @@ ul {
       text-align: center;
       grid-column: span 2;
     }
+    section.row2 {
+      grid-row: span 2;
+    }
   }
 }

@@ -19,6 +19,12 @@
             "icon": "https://riffle.systems/favicon-32x32.png"
           },
           {
+            "title": "Developing local-first software",
+            "author": "James Arthur",
+            "url": "https://electric-sql.com/blog/2023/02/09/developing-local-first-software",
+            "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
+          },
+          {
             "title": "What if we had local-first software?",
             "author": "@adlrocha",
             "url": "https://adlrocha.substack.com/p/adlrocha-what-if-we-had-local-first",
@@ -29,6 +35,18 @@
             "author": "James Pearce",
             "url": "https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data",
             "icon": "https://tripleodeon.com/favicon.ico"
+          },
+          {
+            "title": "In search of a local-first database",
+            "author": "Jared Forsyth",
+            "url": "https://jaredforsyth.com/posts/in-search-of-a-local-first-database",
+            "icon": "https://jaredforsyth.com/images/logo/JF_black_32.png"
+          },
+          {
+            "title": "End-to-End Encryption in the Browser",
+            "author": "vjeux",
+            "url": "https://blog.excalidraw.com/end-to-end-encryption/",
+            "icon": "https://excalidraw.com/favicon.ico"
           }
         ]
       },
@@ -58,6 +76,12 @@
             "author": "Martin Kleppmann",
             "url": "https://www.youtube.com/watch?v=x7drE24geUw",
             "icon": "https://img.youtube.com/vi/x7drE24geUw/sddefault.jpg"
+          },
+          {
+           "title": "AWS reInvent 2019: Data Driven Mobile & Web Apps",
+            "author": "Richard Threlkeld",
+            "url": "https://www.youtube.com/watch?v=KcYl6_We0EU",
+            "icon": "https://img.youtube.com/vi/KcYl6_We0EU/sddefault.jpg"
           }
         ]
       }
@@ -69,6 +93,7 @@
     "sections": [
       {
         "title": "Storing data",
+        "class": "row2",
         "items": [
           {
             "title": "PouchDB",
@@ -95,6 +120,37 @@
             "icon": "https://tinybase.org/favicon.svg"
           },
           {
+            "title": "ElectricSQL",
+            "author": "ElectricSQL team",
+            "url": "https://electric-sql.com",
+            "icon": "https://raw.githubusercontent.com/electric-sql/meta/main/identity/ElectricSQL-icon-light-trans.svg"
+          },
+          {
+            "title": "Evolu",
+            "author": "Daniel Steigerwald",
+            "url": "https://www.evolu.dev/",
+            "icon": "https://raw.githubusercontent.com/evoluhq/evolu/main/apps/web/public/favicon-32x32.png"
+          },
+
+          {
+            "title": "Instant",
+            "author": "Stepan Parunashvili",
+            "url": "https://www.instantdb.com",
+            "icon": "https://www.instantdb.com/playful_sun.svg"
+          },
+          {
+            "title": "Gun",
+            "author": "Mark Nadal",
+            "url": "https://gun.eco",
+            "icon": "https://gun.eco/icons/icon-48x48.png?v=dfecf3c0fa09798b200a8a8b9fa0f172"
+          },
+          {
+            "title": "WatermelonDB",
+            "author": "Nozbe",
+            "url": "https://watermelondb.dev",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
             "title": "SyncedStore",
             "author": "Yousef El-Dardiry",
             "url": "https://syncedstore.org",
@@ -118,6 +174,35 @@
             "icon": "https://automerge.org/img/favicon.ico"
           },
           {
+            "title": "Replicache",
+            "author": "Rocicorp",
+            "url": "https://replicache.dev",
+            "icon": "https://replicache.dev/icons/favicon-32x32.png"
+          },
+          {
+            "title": "hocuspocus",
+            "author": "ueberdosis",
+            "url": "https://tiptap.dev/hocuspocus/",
+            "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Amplify DataStore",
+            "author": "Amazon Web Services",
+            "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
+            "icon": "https://d0.awsstatic.com/logos/powered-by-aws-white.png"
+          }
+        ]
+      },
+      {
+        "title": "Examples",
+        "items": [
+          {
+            "title": "lo-fi",
+            "author": "Grant Forrest",
+            "url": "https://lo-fi.gfor.rest",
+            "icon": "https://lo-fi.gfor.rest/img/logo.png"
+          },
+          {
             "title": "CRDT tutorials",
             "author": "James Addison",
             "url": "https://github.com/siliconjungle/crdt-tutorials",
@@ -139,6 +224,7 @@
     "sections": [
       {
         "title": "Folks to follow",
+        "class": "row2",
         "items": [
           {
             "title": "Johannes Schickling",
@@ -169,11 +255,40 @@
             "author": "@gaforres",
             "url": "https://twitter.com/gaforres",
             "icon": "https://pbs.twimg.com/profile_images/1350947174645956609/Ebe_Qd46_200x200.jpg"
+          },
+          {
+            "title": "Geoffrey Litt",
+            "author": "@geoffreylitt",
+            "url": "https://twitter.com/geoffreylitt",
+            "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
+          },
+          {
+            "title": "James Pearce",
+            "author": "@jamespearce",
+            "url": "https://twitter.com/jamespearce",
+            "icon": "https://pbs.twimg.com/profile_images/1550560609258831873/R3sP0ze4_200x200.jpg"
           }
         ]
       },
       {
-        "title": "Apps you can try",
+        "title": "Communities to join",
+        "items": [
+          {
+            "title": "Braid",
+            "author": "IETF & members",
+            "url": "https://braid.org",
+            "icon": "https://www.ietf.org/lib/dt/9.8.0/ietf/images/ietf-logo-nor-mask.svg"
+          },
+          {
+            "title": "#LFW.dev Discord",
+            "author": "Local First Web Builders",
+            "url": "https://discord.gg/ZRrwZxn4rW",
+            "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
+          }
+        ]
+      },
+      {
+        "title": "Apps to try",
         "items": [
           {
             "title": "Actual",
@@ -186,6 +301,12 @@
             "author": "Excalidraw contributors",
             "url": "https://excalidraw.com",
             "icon": "https://excalidraw.com/favicon.ico"
+          },
+          {
+            "title": "Gnocchi.club",
+            "author": "Grant Forrest",
+            "url": "https://gnocchi.club",
+            "icon": "https://gnocchi.club/android-chrome-512x512.png"
           }
         ]
       }
