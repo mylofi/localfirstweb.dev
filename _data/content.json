@@ -146,9 +146,9 @@
           },
           {
             "title": "WatermelonDB",
-            "author": "Nozbe",
+            "author": "Radek Pietruszewski / Nozbe",
             "url": "https://watermelondb.dev",
-            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+            "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
           },
           {
             "title": "SyncedStore",
