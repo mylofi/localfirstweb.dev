@@ -131,7 +131,6 @@
             "url": "https://www.evolu.dev/",
             "icon": "https://raw.githubusercontent.com/evoluhq/evolu/main/apps/web/public/favicon-32x32.png"
           },
-
           {
             "title": "Instant",
             "author": "Stepan Parunashvili",
@@ -284,6 +283,12 @@
             "author": "Local First Web Builders",
             "url": "https://discord.gg/ZRrwZxn4rW",
             "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
+          },
+          {
+            "title": "This page on Hacker News",
+            "author": "@bubblehack3r",
+            "url": "https://news.ycombinator.com/item?id=34857435",
+            "icon": "https://news.ycombinator.com/favicon.ico"
           }
         ]
       },
