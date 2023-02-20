@@ -307,6 +307,12 @@
             "author": "Grant Forrest",
             "url": "https://gnocchi.club",
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
+          },
+            {
+            "title": "Bangle.io",
+            "author": "Kushan Joshi",
+            "url": "https://bangle.io",
+            "icon": "https://app.bangle.io/icon-transparent_x512.png"
           }
         ]
       }
