@@ -318,7 +318,14 @@
             "author": "Kushan Joshi",
             "url": "https://bangle.io",
             "icon": "https://app.bangle.io/icon-transparent_x512.png"
+          },
+            {
+            "title": "Textorama",
+            "author": "João Melo",
+            "url": "https://textorama.melo.plus/",
+            "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
           }
+          
         ]
       }
     ]
