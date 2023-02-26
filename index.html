@@ -19,7 +19,7 @@ layout: compress
       rel="preload"
     />
 
-    <title>{{ site.title }}</title>
+    <title>{{site.title}}</title>
     <meta content="{{site.description}}" name="description" />
 
     <meta content="website" property="og:type" />
@@ -55,14 +55,21 @@ layout: compress
       That works offline? That synchronizes between clients? And that lets its
       users own their data?
       <b>Welcome to the world of local-first web&nbsp;development.</b>
-      <b>
-        <a href="https://discord.gg/ZRrwZxn4rW"
-          ><img
-            width="200"
-            src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
-        /></a>
-      </b>
     </summary>
+    <aside>
+      <h2><em>0.</em> Coming soon</h2>
+      <a
+        href="https://discord.gg/4CVnJ2vD?event=1076855466824564766"
+        target="_blank"
+      >
+        <img src="/assets/images/meetup1.jpg" />
+      </a>
+      Join our
+      <a href="https://discord.gg/ZRrwZxn4rW" target="_blank"
+        >Discord community</a
+      >
+      for more updates!
+    </aside>
     <main>
       {%for group in site.data.content%}
       <h2><em>{{group.index}}.</em> {{group.title}}</h2>

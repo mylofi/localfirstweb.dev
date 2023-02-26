@@ -71,10 +71,22 @@ footer {
 
 header,
 summary,
+aside,
 footer {
   max-width: 22rem;
   margin: 0 auto;
   text-align: center;
+}
+
+aside {
+  padding: 1rem 0 2rem;
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 1rem auto;
+    border: 1px solid white;
+    box-shadow: 0 0 2rem $accent;
+  }
 }
 
 b {
@@ -148,7 +160,8 @@ ul {
 
 @media (min-width: 48rem) {
   header,
-  summary {
+  summary,
+  aside {
     max-width: 36rem;
   }
   main {
@@ -162,5 +175,8 @@ ul {
     section.row2 {
       grid-row: span 2;
     }
+  }
+  aside img {
+    max-width: 60%;
   }
 }
