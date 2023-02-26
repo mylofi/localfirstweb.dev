@@ -71,7 +71,6 @@ footer {
 
 header,
 summary,
-aside,
 footer {
   max-width: 22rem;
   margin: 0 auto;
@@ -79,6 +78,8 @@ footer {
 }
 
 aside {
+  max-width: 22rem;
+  margin: 0 auto;
   padding: 1rem 0 2rem;
   img {
     max-width: 100%;
@@ -176,7 +177,10 @@ ul {
       grid-row: span 2;
     }
   }
-  aside img {
-    max-width: 60%;
+  aside {
+    text-align: center;
+    img {
+      max-width: 60%;
+    }
   }
 }
