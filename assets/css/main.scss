@@ -81,6 +81,9 @@ aside {
   max-width: 22rem;
   margin: 0 auto;
   padding: 1rem 0 2rem;
+  a {
+    text-decoration: underline;
+  }
   img {
     max-width: 100%;
     display: block;

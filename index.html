@@ -64,11 +64,17 @@ layout: compress
       >
         <img src="/assets/images/meetup1.jpg" />
       </a>
-      Join our
-      <a href="https://discord.gg/ZRrwZxn4rW" target="_blank"
-        >Discord community</a
+      <a
+        href="https://discord.gg/4CVnJ2vD?event=1076855466824564766"
+        target="_blank"
       >
-      for more updates!
+        Sign up
+      </a>
+      and join our
+      <a href="https://discord.gg/ZRrwZxn4rW" target="_blank">
+        Discord community
+      </a>
+      for more updates.
     </aside>
     <main>
       {%for group in site.data.content%}
@@ -79,8 +85,10 @@ layout: compress
         <ul>
           {%for item in section.items%}
           <li>
-            <img src="{{item.icon}}" />
-            <a href="{{item.url}}" target="_blank">{{item.title}}</a>
+            <a href="{{item.url}}" target="_blank">
+              <img src="{{item.icon}}" />
+              {{item.title}}
+            </a>
             <small>{{item.author}}</small>
           </li>
           {%endfor%}
