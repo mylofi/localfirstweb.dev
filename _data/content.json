@@ -189,6 +189,12 @@
             "author": "Amazon Web Services",
             "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
             "icon": "https://d0.awsstatic.com/logos/powered-by-aws-white.png"
+          },
+          {
+            "title": "Collabs",
+            "author": "Composable Systems Lab @ CMU",
+            "url": "https://collabs.readthedocs.io/en/latest/",
+            "icon": "https://collabs.readthedocs.io/en/latest/_static/favicon.ico"
           }
         ]
       },
