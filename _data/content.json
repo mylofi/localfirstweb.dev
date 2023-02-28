@@ -47,6 +47,12 @@
             "author": "vjeux",
             "url": "https://blog.excalidraw.com/end-to-end-encryption/",
             "icon": "https://excalidraw.com/favicon.ico"
+          },
+          {
+            "title": "Designing Data Structures for Collaborative Apps",
+            "author": "Matthew Weidner",
+            "url": "https://mattweidner.com/2022/02/10/collaborative-data-design.html",
+            "icon": "https://mattweidner.com/assets/img/favicon.ico"
           }
         ]
       },
