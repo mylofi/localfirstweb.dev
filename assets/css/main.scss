@@ -71,6 +71,7 @@ footer {
 
 header,
 summary,
+aside,
 footer {
   max-width: 22rem;
   margin: 0 auto;
@@ -78,13 +79,16 @@ footer {
 }
 
 aside {
-  max-width: 22rem;
-  margin: 0 auto;
   padding: 1rem 0 2rem;
   a {
     text-decoration: underline;
   }
-  img {
+  img.discord {
+    display: inline;
+    height: 1.4rem;
+    vertical-align: middle;
+  }
+  img.solid {
     max-width: 100%;
     display: block;
     margin: 1rem auto;
@@ -178,12 +182,6 @@ ul {
     }
     section.row2 {
       grid-row: span 2;
-    }
-  }
-  aside {
-    text-align: center;
-    img {
-      max-width: 60%;
     }
   }
 }
