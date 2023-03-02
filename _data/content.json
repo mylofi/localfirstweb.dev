@@ -84,7 +84,7 @@
             "icon": "https://img.youtube.com/vi/x7drE24geUw/sddefault.jpg"
           },
           {
-           "title": "AWS reInvent 2019: Data Driven Mobile & Web Apps",
+            "title": "AWS reInvent 2019: Data Driven Mobile & Web Apps",
             "author": "Richard Threlkeld",
             "url": "https://www.youtube.com/watch?v=KcYl6_We0EU",
             "icon": "https://img.youtube.com/vi/KcYl6_We0EU/sddefault.jpg"
@@ -117,7 +117,7 @@
             "title": "VLCN",
             "author": "Matt Wonlaw",
             "url": "https://vlcn.io",
-            "icon": "https://vlcn.io/assets/isometrics/hand-cube.png"
+            "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
           },
           {
             "title": "TinyBase",
@@ -325,19 +325,18 @@
             "url": "https://gnocchi.club",
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
           },
-            {
+          {
             "title": "Bangle.io",
             "author": "Kushan Joshi",
             "url": "https://bangle.io",
             "icon": "https://app.bangle.io/icon-transparent_x512.png"
           },
-            {
+          {
             "title": "Textorama",
             "author": "João Melo",
             "url": "https://textorama.melo.plus/",
             "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
           }
-          
         ]
       }
     ]
