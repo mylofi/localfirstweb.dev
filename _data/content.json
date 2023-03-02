@@ -53,6 +53,12 @@
             "author": "Matthew Weidner",
             "url": "https://mattweidner.com/2022/02/10/collaborative-data-design.html",
             "icon": "https://mattweidner.com/assets/img/favicon.ico"
+          },
+          {
+            "title": "A Gentle Introduction to CRDTs",
+            "author": "Matt Wonlaw",
+            "url": "https://vlcn.io/blog/gentle-intro-to-crdts.html",
+            "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
           }
         ]
       },
