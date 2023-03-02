@@ -207,6 +207,12 @@
             "author": "Composable Systems Lab @ CMU",
             "url": "https://collabs.readthedocs.io/en/latest/",
             "icon": "https://collabs.readthedocs.io/en/latest/_static/favicon.ico"
+          },
+          {
+            "title": "VLCN",
+            "author": "Matt Wonlaw",
+            "url": "https://vlcn.io",
+            "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
           }
         ]
       },
