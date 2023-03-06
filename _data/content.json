@@ -166,6 +166,12 @@
             "author": "Yousef El-Dardiry",
             "url": "https://syncedstore.org",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "remoteStorage",
+            "author": "remoteStorage contributors",
+            "url": "https://remotestorage.io",
+            "icon": "https://remotestorage.io/img/icon.svg"
           }
         ]
       },
