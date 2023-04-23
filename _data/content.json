@@ -94,6 +94,12 @@
             "author": "Richard Threlkeld",
             "url": "https://www.youtube.com/watch?v=KcYl6_We0EU",
             "icon": "https://img.youtube.com/vi/KcYl6_We0EU/sddefault.jpg"
+          },
+          {
+            "title": "Holistic Approach to Local-First Software",
+            "author": "Mauve Signweaver",
+            "url": "https://www.youtube.com/watch?v=VqUzhnDd1-E",
+            "icon": "https://img.youtube.com/vi/VqUzhnDd1-E/sddefault.jpg"
           }
         ]
       }
@@ -296,6 +302,12 @@
             "author": "@jamespearce",
             "url": "https://twitter.com/jamespearce",
             "icon": "https://pbs.twimg.com/profile_images/1550560609258831873/R3sP0ze4_200x200.jpg"
+          },
+          {
+            "title": "Mauve Signweaver",
+            "author": "@RangerMauve",
+            "url": "https://mastodon.mauve.moe/@mauve",
+            "icon": "https://mastodon.mauve.moe/system/accounts/avatars/000/000/002/original/e4b910cee121b1b8.png"
           }
         ]
       },
@@ -330,6 +342,12 @@
             "author": "James Long & contributors",
             "url": "https://actualbudget.com",
             "icon": "https://actualbudget.com/favicon-32x32.png"
+          },
+          {
+            "title": "Agregore Browser",
+            "author": "Mauve Signweaver & contributors",
+            "url": "https://agregore.mauve.moe/",
+            "icon": "https://agregore.mauve.moe/icon.svg"
           },
           {
             "title": "Excalidraw",
