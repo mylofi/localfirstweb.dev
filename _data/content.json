@@ -225,6 +225,12 @@
             "author": "Matt Wonlaw",
             "url": "https://vlcn.io",
             "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
+          },
+          {
+            "title": "Ditto",
+            "author": "Ditto Live, Inc",
+            "url": "https://ditto.live",
+            "icon": "https://www.ditto.live/_next/static/media/blue.d20274dd.svg"
           }
         ]
       },
