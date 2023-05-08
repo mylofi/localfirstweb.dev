@@ -178,6 +178,12 @@
             "author": "remoteStorage contributors",
             "url": "https://remotestorage.io",
             "icon": "https://remotestorage.io/img/icon.svg"
+          },
+          {
+            "title": "Verdant",
+            "author": "Grant Forrest",
+            "url": "https://verdant.dev",
+            "icon": "https://verdant.dev/favicon-32x32.png"
           }
         ]
       },
@@ -231,18 +237,18 @@
             "author": "Ditto Live, Inc",
             "url": "https://ditto.live",
             "icon": "https://www.ditto.live/_next/static/media/blue.d20274dd.svg"
+          },
+          {
+            "title": "Verdant",
+            "author": "Grant Forrest",
+            "url": "https://verdant.dev",
+            "icon": "https://verdant.dev/favicon-32x32.png"
           }
         ]
       },
       {
         "title": "Examples",
         "items": [
-          {
-            "title": "lo-fi",
-            "author": "Grant Forrest",
-            "url": "https://lo-fi.gfor.rest",
-            "icon": "https://lo-fi.gfor.rest/img/logo.png"
-          },
           {
             "title": "CRDT tutorials",
             "author": "James Addison",
