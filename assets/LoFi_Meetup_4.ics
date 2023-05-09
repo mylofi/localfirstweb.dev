@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LFW.dev Meetups
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:https://lfw.dev meetups
+BEGIN:VEVENT
+DTSTART:20230530T180000Z
+DTEND:20230530T193000Z
+DTSTAMP:20230509T010619Z
+ORGANIZER;CN=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29
+ e3@group.calendar.google.com:mailto:f804a8f570cbe8b9cfd9518732f2723a53711a2
+ 175962e90d585817c3ace29e3@group.calendar.google.com
+UID:1992r9fgqp01blcmf2bosorqqb@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
+ mes Pearce;X-NUM-GUESTS=0:mailto:jamesgpearce@tripleodeon.com
+CREATED:20230508T165019Z
+DESCRIPTION:Excited to announce yet another blockbuster local first meetup!
+  Join our <a href="https://www.google.com/url?q=https://lfw.dev&amp\;sa=D&a
+ mp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1t4HJjBc-fW0zxwUO5dlEa" targe
+ t="_blank">local-first community</a> and catch up on <a href="https://www.g
+ oogle.com/url?q=https://youtube.com/playlist?list%3DPLTbD2QA-VMnXFsLbuPGz1H
+ -Najv9MD2-H&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1Y4p-C
+ 1fTby1jbor6ef3gR" target="_blank">previous meetups</a>.<br><br>Scheduled Ta
+ lks for Tuesday\, May 30th\, @ 2 PM ET.  <p><b>Excalidraw\, a local first v
+ irtual whiteboard</b><br>- by <a href="https://www.google.com/url?q=https:/
+ /twitter.com/Vjeux&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVa
+ w3-HGiM4v6i-UIpRNnYP7ik" target="_blank">Christopher Chedeau</a>\, building
+  <a href="https://www.google.com/url?q=https://twitter.com/excalidraw&amp\;
+ sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw39dEZTsvMb0px8207D0uXu"
+  target="_blank">@excalidraw</a></p><p><b>Making multiplayer easy with Repl
+ icache<br></b>- by <a href="https://www.google.com/url?q=https://twitter.co
+ m/aboodman&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3JUu9Jj
+ 2MiFp4Q_blAgBDt" target="_blank">Aaron Boodman</a>\, building <a href="http
+ s://www.google.com/url?q=https://twitter.com/replicache&amp\;sa=D&amp\;sour
+ ce=calendar&amp\;usd=2&amp\;usg=AOvVaw0pd4_0G-ZFX0sZFOuAXR2F" target="_blan
+ k">@replicache</a></p><b>P2P: the true serverless <br></b>- by <a href="htt
+ ps://www.google.com/url?q=https://twitter.com/getifyAtSocket&amp\;sa=D&amp\
+ ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3KNkDe1vncVtEM_3RrT8To" target="
+ _blank"><u>Kyle Simson</u></a>\, building <a href="https://www.google.com/u
+ rl?q=https://twitter.com/socketsupply&amp\;sa=D&amp\;source=calendar&amp\;u
+ sd=2&amp\;usg=AOvVaw2c3mUWbO0UmYfeV9PvA-iT" target="_blank"><u>@socketsuppl
+ y</u></a><br><br><br>Alternate streaming link: <a href="https://www.google.
+ com/url?q=https://youtube.com/live/7Bb0KRLL8FI?feature%3Dshare&amp\;sa=D&am
+ p\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3chTMuJ4Okfe7XHgD6oA_W" target
+ ="_blank">https://youtube.com/live/7Bb0KRLL8FI?feature=share</a><br><br>See
+  you there\, <br>Yonatan @<a href="https://www.google.com/url?q=https://twi
+ tter.com/founderYonz&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOv
+ Vaw2tMkqkUW8YSRBcimKhFvkb" target="_blank">founderYonz</a>
+LAST-MODIFIED:20230508T165049Z
+LOCATION:https://discord.gg/Sw2zhs6p?event=1102927548079423518
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Local First Meetup #4
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H10M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P0DT0H30M0S
+DESCRIPTION:This is an event reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
