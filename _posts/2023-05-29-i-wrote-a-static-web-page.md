@@ -48,7 +48,7 @@ satellite options abound - so we survive. But when it isn’t good, it _really_
 isn’t good. And then suddenly, it dawns on you just how much of your life is
 beholden to the cloud. Your documents don’t load. Your photos don’t sync. Your
 messages don’t send. Without necessarily consciously realizing it, we have all
-moved most of our online existences to [other people’s
+moved most of our online existence to [other people’s
 computers](https://www.chriswatterston.com/article/success-of-my-there-is-no-cloud-sticker)!
 
 Now, of course, there are many advantages to this shift: collaboration, backups,
@@ -65,7 +65,7 @@ wondered why.
 As I disappeared down this rabbit-hole, I quickly stumbled on the canonical
 essay on the topic, “[Local-first software: you own your data, in spite of the
 cloud](https://www.inkandswitch.com/local-first/)”, by research lab Ink &
-Switch. In summary, the they identify seven principles for local-first
+Switch. In summary, they identify seven principles for local-first
 applications:
 
 - No spinners: your work at your fingertips
@@ -158,9 +158,9 @@ be joined by [Peter van Hardenberg](https://twitter.com/pvh) from Ink & Switch -
 keynotes, deep dives into sync technologies, and a lengthy and rich Q&A session.
 
 Since that first meetup, there have been three further blockbuster meetups, five
-paper reading group sessions and over 700 members building, discussion and
-sharing in their local-first passions. (In a second part to this post, Yonatan
-will dig into the work behind the origins of the LoFi community!)
+paper reading group sessions and ~700 members building, discussing and
+sharing their passion for local-first. (In a follow on post, Yonatan will dig
+into the work behind the LoFi community!)
 
 But here’s my chance to say something very important. It doesn’t take on that
 life of its own _on its own_. While my personal involvement has stayed
