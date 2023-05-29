@@ -15,9 +15,10 @@ happen on the web too.
 ## I’m on a boat
 
 First, the back story. Last year, after a wonderful ten years at Facebook (and
-then Meta), I left my position as Engineering Director, and, with my wife
-Jayne, moved onboard our sailing boat, Scout. We quickly got accustomed to a
-life of going wherever or whenever the weather wanted to take us.
+then Meta), I left my position as Engineering Director, and, with my wife Jayne,
+moved onboard our sailing boat, [Scout](https://scoutsailing.com/). We quickly
+got accustomed to a life of going wherever or whenever the weather wanted to
+take us.
 
 But there’s a lot of downtime on a boat. Me? I’ve been using this opportunity to
 grow and maintain an open source project called
@@ -29,7 +30,7 @@ attention. The first was from Cory House who drew attention to “[a new
 collaborative software
 architecture](https://twitter.com/housecor/status/1492203985335373825)” (and as
 follow up gave the project a well-needed and generous
-[shoutout](https://twitter.com/housecor/status/1492859757941637126)!). The
+[shout out](https://twitter.com/housecor/status/1492859757941637126)!). The
 second was from Geoffrey Litt, who, with colleagues, published [an excellent
 essay](https://twitter.com/geoffreylitt/status/1499083601387864069) about
 running relational, reactive databases on the client.
@@ -86,7 +87,7 @@ to the UI, and onto the client!
 Nevertheless, I realized that TinyBase could theoretically fit nicely into this
 picture: a way to have a structured store of data on the client side (with a
 close-by binding to the user interface), and took the slightly cheeky
-opportunity to update the project’s strapline: “The reactive data store for
+opportunity to update the project’s strap line: “The reactive data store for
 local-first apps”.
 
 Still, I wasn’t exactly sure that people knew what “local-first” meant. What
