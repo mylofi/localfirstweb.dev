@@ -1,5 +1,8 @@
 ---
 title: I wrote a static web page and accidentally started a community
+description: "The flap of a butterfly’s wings on one continent, so the story goes, can cause a
+tornado a year later in another. Here’s my story of how something like that can
+happen on the web too."
 layout: post
 author: James Pearce
 author_link: https://twitter.com/jamespearce
@@ -149,9 +152,9 @@ least online, and the first meetup was scheduled for February 28th.
 ## A tornado begins: the #lfw.dev community takes off
 
 The first meetup, held in February, exceeded everyone’s expectations. Honored to
-be joined by Peter van Hardenberg from Ink & Switch - ‘the father of
-local-first’ - and other speakers, the community heard kick-off keynotes, deep
-dives into sync technologies, and a lengthy and rich Q&A session.
+be joined by [Peter van Hardenberg](https://twitter.com/pvh) from Ink & Switch -
+‘the father of local-first’ - and other speakers, the community heard kick-off
+keynotes, deep dives into sync technologies, and a lengthy and rich Q&A session.
 
 Since that first meetup, there have been three further blockbuster meetups, five
 paper reading group sessions and over 700 members building, discussion and
@@ -168,9 +171,8 @@ awesome he has been in driving #lfw.dev forward.
 
 ## Onwards and upwards
 
-Local-first as a movement still seems to be young. The
-principles are solid, the enthusiasm is strong, and examples of it in use are
-appearing.
+Local-first as a movement still seems to be young. The principles are solid, the
+enthusiasm is strong, and examples of it in use are appearing.
 
 But there is a long way to go! There are still not as many local-first apps in
 production as you might think, perhaps because they are still a little harder to

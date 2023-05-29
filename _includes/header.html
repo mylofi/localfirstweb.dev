@@ -15,34 +15,53 @@
       rel="preload"
     />
 
-    <title>{{site.title}}</title>
-    <meta content="{{site.description}}" name="description" />
+    <title>{%if page.title%}{{page.title}} | {%endif%}{{site.title}}</title>
+    <meta
+      content="{%if page.description%}{{page.description}}{%else%}{{site.description}}{%endif%}"
+      name="description"
+    />
 
     <meta content="website" property="og:type" />
-    <meta content="{{site.title}}" property="og:title" />
-    <meta content="{{site.description}}" property="og:description" />
-    <meta content="{{site.url}}" property="og:url" />
-    <meta content="/assets/images/logo.png" property="og:image" />
+    <meta
+      content="{%if page.title%}{{page.title}}{%else%}{{site.title}}{%endif%}"
+      property="og:title"
+    />
+    <meta
+      content="{%if page.description%}{{page.description}}{%else%}{{site.description}}{%endif%}"
+      property="og:description"
+    />
+    <meta content="{{site.url}}{{page.url}}" property="og:url" />
+    <meta content="{{site.url}}/assets/images/logo.png" property="og:image" />
 
     <meta content="summary" name="twitter:card" />
-    <meta content="{{site.title}}" name="twitter:title" />
-    <meta content="{{site.description}}" name="twitter:description" />
-    <meta content="/assets/images/logo.png" name="twitter:image" />
+    <meta
+      content="{%if page.title%}{{page.title}}{%else%}{{site.title}}{%endif%}"
+      name="twitter:title"
+    />
+    <meta
+      content="{%if page.description%}{{page.description}}{%else%}{{site.description}}{%endif%}"
+      name="twitter:description"
+    />
+    <meta content="{{site.url}}/assets/images/logo.png" name="twitter:image" />
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <link href="/assets/images/logo.svg" rel="icon" type="image/svg+xml" />
     <link href="/assets/css/main.css" rel="stylesheet" />
-    <link href="{{site.url}}" rel="canonical" />
+    <link href="{{site.url}}{{page.url}}" rel="canonical" />
   </head>
 
   <body>
     <header>
-      <img
-        alt="Local-First Web Development Logo"
-        src="/assets/images/logo.svg"
-      />
-      <h1>
-        Local-First
-        <span>Web Development</span>
-      </h1>
+      <a href="/"
+        ><img
+          alt="Local-First Web Development Logo"
+          src="/assets/images/logo.svg"
+        />
+        <h1>
+          Local-First
+          <span>Web Development</span>
+        </h1></a
+      >
     </header>
+  </body>
+</html>
