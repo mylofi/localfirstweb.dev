@@ -16,3 +16,10 @@ port: 9001
 sass:
   style: compressed
   sass_dir: assets/css
+
+defaults:
+  - scope:
+      path: '_posts'
+    values:
+      layout: 'post'
+      permalink: /blog/:year-:month-:day-:title

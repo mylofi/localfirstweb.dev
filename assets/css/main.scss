@@ -17,6 +17,9 @@ body {
   font-family: Archivo;
   font-weight: $font-weight;
   margin: 0;
+  letter-spacing: 0.02rem;
+  line-height: 1.2rem;
+  font-size: 1.1rem;
 }
 
 h1,
@@ -138,34 +141,70 @@ main {
     width: 100%;
     max-width: 22rem;
   }
+
+  ul {
+    padding: 0;
+    li {
+      margin: 1rem 0;
+      padding-left: 3rem;
+      position: relative;
+      overflow: hidden;
+      max-width: 19rem;
+      height: 3.5rem;
+      display: block;
+      img {
+        width: 2rem;
+        height: 2rem;
+        position: absolute;
+        left: 0rem;
+        object-fit: contain;
+      }
+      a {
+        font-weight: 400;
+      }
+      small {
+        display: block;
+        font-style: italic;
+        font-size: 0.8rem;
+        padding-bottom: 0.25rem;
+      }
+    }
+  }
 }
 
-ul {
-  padding: 0;
-  li {
-    margin: 1rem 0;
-    padding-left: 3rem;
-    position: relative;
-    overflow: hidden;
-    max-width: 19rem;
-    height: 3.5rem;
+article {
+  max-width: 48rem;
+  padding: 1rem;
+  margin: auto;
+  h1 {
+    font-size: 2rem;
+    line-height: 2.4rem;
+  }
+  h2 {
+    letter-spacing: 0rem;
+    font-size: 1.5rem;
+    margin: 4rem 0 1rem;
+  }
+  .metadata {
+    border-bottom: solid 1px #666;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  em {
+    color: inherit;
+    font-style: italic;
+  }
+  a {
+    text-decoration: underline;
+    text-decoration-color: #666;
+  }
+  img.feature {
+    max-width: 100%;
     display: block;
-    img {
-      width: 2rem;
-      height: 2rem;
-      position: absolute;
-      left: 0rem;
-      object-fit: contain;
-    }
-    a {
-      font-weight: 400;
-    }
-    small {
-      display: block;
-      font-style: italic;
-      font-size: 0.8rem;
-      padding-bottom: 0.25rem;
-    }
+    margin: 0 auto 1rem;
+    border: 1px solid white;
+    box-shadow: 0 0 2rem $accent;
   }
 }
 
