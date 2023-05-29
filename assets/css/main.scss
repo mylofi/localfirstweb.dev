@@ -4,7 +4,7 @@
 $accent: #e6000e;
 $text-color: #ccc;
 $text-color-bright: #fff;
-$font-weight: 200;
+$font-weight: 400;
 
 @font-face {
   font-family: Archivo;
@@ -17,8 +17,7 @@ body {
   font-family: Archivo;
   font-weight: $font-weight;
   margin: 0;
-  letter-spacing: 0.02rem;
-  line-height: 1.2rem;
+  line-height: 1.3rem;
   font-size: 1.1rem;
 }
 
