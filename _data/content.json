@@ -249,6 +249,12 @@
             "author": "Grant Forrest",
             "url": "https://verdant.dev",
             "icon": "https://verdant.dev/favicon-32x32.png"
+          },
+          {
+              "title": "Sockethub",
+              "author": "Nick Jennings",
+              "url": "http://sockethub.org",
+              "icon": "http://sockethub.org/favicon.ico"
           }
         ]
       },
