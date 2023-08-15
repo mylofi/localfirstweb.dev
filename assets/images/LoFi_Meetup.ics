@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+BEGIN:VEVENT
+UID:d550490c-db7d-4820-b84e-4e7d168c3d5e
+SEQUENCE:0
+DTSTAMP:20230815T145500Z
+DTSTART:20230829T150000Z
+DTEND:20230829T150000Z
+SUMMARY:Lofi/7
+LOCATION:Discord: LoFi (Local First) server\, Stage
+DESCRIPTION:Tune in to our next meetup where we highlight  the work being 
+ done by local-first builders!\nHelp spread the word: https://twitter.com/f
+ ounderYonz/status/1691461859818590208?s=20\n\n\nScheduled talks:\nLocal-On
+ ly\, or Local-First? Add sync to any kind of stack with Jazz\n--Anselm Eic
+ khoff\, https://jazz.tools \n\nBuilding Anytype: a LoFi Personal Knowledge
+  Graph\n-- Zhanna Sharipova & Mikhail Rahkmanov\, https://anytype.io/\n\nW
+ hy we need a full-stack database\n-- Matthew Linkous\, https://triplit.dev
+ \n\nAlternate streaming & recording link [Youtube Live]: https://youtube.c
+ om/live/Yxyjg2STvHE?feature=share
+END:VEVENT
+END:VCALENDAR
