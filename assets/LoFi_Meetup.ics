@@ -2,20 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7a7d98d8-a443-49ea-9069-f673c2bf4db2
+UID:d550490c-db7d-4820-b84e-4e7d168c3d5e
 SEQUENCE:0
-DTSTAMP:20230706T142007Z
-DTSTART:20230725T150000Z
-DTEND:20230725T150000Z
-SUMMARY:LoFi/6 Meeutip
+DTSTAMP:20230815T145500Z
+DTSTART:20230829T150000Z
+DTEND:20230829T150000Z
+SUMMARY:Lofi/7
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:Tune in to our next meetup where we highlight some of the work
-  being done by local-first builders!\nHelp spread the word: https://twitte
- r.com/founderYonz/status/1676957435339341824\nScheduled talks:\nReactive\,
-  Structured and Tiny: LoFi state management\n-  James Pearce\, building @t
- inybasejs\nBuilding LoFi\, E2E encrypted applications\n- Jason Ginsberg\, 
- building @skiffprivacy\nBeyond CRDTs: The Next Frontier of LoFi\n- Matt Wo
- nlaw\, building vlcn.io\, cr-sqlite\n\nAlternate streaming link: https://w
- ww.youtube.com/live/35Q8B3uq9Us?feature=share\n\nBest\,\nYonz
+DESCRIPTION:Tune in to our next meetup where we highlight  the work being 
+ done by local-first builders!\nHelp spread the word: https://twitter.com/f
+ ounderYonz/status/1691461859818590208?s=20\n\n\nScheduled talks:\nLocal-On
+ ly\, or Local-First? Add sync to any kind of stack with Jazz\n--Anselm Eic
+ khoff\, https://jazz.tools \n\nBuilding Anytype: a LoFi Personal Knowledge
+  Graph\n-- Zhanna Sharipova & Mikhail Rahkmanov\, https://anytype.io/\n\nW
+ hy we need a full-stack database\n-- Matthew Linkous\, https://triplit.dev
+ \n\nAlternate streaming & recording link [Youtube Live]: https://youtube.c
+ om/live/Yxyjg2STvHE?feature=share
 END:VEVENT
 END:VCALENDAR
