@@ -190,6 +190,12 @@
             "author": "Grant Forrest",
             "url": "https://verdant.dev",
             "icon": "https://verdant.dev/favicon-32x32.png"
+          },
+          {
+            "title": "DXOS",
+            "author": "dxos.org",
+            "url": "https://dxos.org",
+            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           }
         ]
       },
@@ -249,6 +255,12 @@
             "author": "Grant Forrest",
             "url": "https://verdant.dev",
             "icon": "https://verdant.dev/favicon-32x32.png"
+          },
+          {
+            "title": "DXOS",
+            "author": "dxos.org",
+            "url": "https://dxos.org",
+            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           }
         ]
       },
