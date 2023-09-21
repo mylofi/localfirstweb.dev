@@ -2,21 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:d550490c-db7d-4820-b84e-4e7d168c3d5e
+UID:6367202b-852e-49a9-b227-6ebfecc0974d
 SEQUENCE:0
-DTSTAMP:20230815T145500Z
-DTSTART:20230829T150000Z
-DTEND:20230829T150000Z
-SUMMARY:Lofi/7
+DTSTAMP:20230921T153742Z
+DTSTART:20230926T150000Z
+DTEND:20230926T150000Z
+SUMMARY:LoFi/8
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:Tune in to our next meetup where we highlight  the work being 
- done by local-first builders!\nHelp spread the word: https://twitter.com/f
- ounderYonz/status/1691461859818590208?s=20\n\n\nScheduled talks:\nLocal-On
- ly\, or Local-First? Add sync to any kind of stack with Jazz\n--Anselm Eic
- khoff\, https://jazz.tools \n\nBuilding Anytype: a LoFi Personal Knowledge
-  Graph\n-- Zhanna Sharipova & Mikhail Rahkmanov\, https://anytype.io/\n\nW
- hy we need a full-stack database\n-- Matthew Linkous\, https://triplit.dev
- \n\nAlternate streaming & recording link [Youtube Live]: https://youtube.c
- om/live/Yxyjg2STvHE?feature=share
+DESCRIPTION:LoFi/8 on Tuesday\, September 26\, 2023 11:00 AM is coming up 
+ in 5 days  We have prepared yet another fantastic lineup with @heapwolf @m
+ arcus_pousette\, and @visheratin.  Twitter thread: https://x.com/founderYo
+ nz/status/1704881606488445275?s=20\n\nOur first speaker\, Paolo (@heapwolf
+  )\, is the first engineering hire @socketsupply -- a p2p application plat
+ form. He will share how to build zero server LoFi apps through an example 
+ discord replacement app.  \n\nOur second speaker\, @marcus_pousette\, will
+  share his experience building peerbit.org --a P2P\, E2EE\, auto-sharded\,
+  and searchable database. \n\n\nOur final speaker\, @visheratin\, will sho
+ w us how to build small and powerful neural networks in the browser with w
+ eb-ai (https://github.com/visheratin/web-ai)
 END:VEVENT
 END:VCALENDAR
