@@ -257,6 +257,12 @@
             "icon": "https://verdant.dev/favicon-32x32.png"
           },
           {
+            "title": "PowerSync",
+            "author": "JourneyApps",
+            "url": "https://www.powersync.co",
+            "icon": "https://journeyapps.com/assets/images/powersync-hexasync-icon-001.png"
+          },
+          {
             "title": "DXOS",
             "author": "dxos.org",
             "url": "https://dxos.org",
