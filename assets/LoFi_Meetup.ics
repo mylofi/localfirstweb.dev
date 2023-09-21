@@ -1,111 +1,24 @@
 BEGIN:VCALENDAR
-PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:LFW.dev Meetups
-X-WR-TIMEZONE:America/New_York
-X-WR-CALDESC:https://lofi.software meetups
+PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-DTSTART:20230530T180000Z
-DTEND:20230530T193000Z
-DTSTAMP:20230614T223718Z
-ORGANIZER;CN=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29
- e3@group.calendar.google.com:mailto:f804a8f570cbe8b9cfd9518732f2723a53711a2
- 175962e90d585817c3ace29e3@group.calendar.google.com
-UID:1992r9fgqp01blcmf2bosorqqb@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ja
- mes Pearce;X-NUM-GUESTS=0:mailto:jamesgpearce@tripleodeon.com
-CREATED:20230508T165019Z
-DESCRIPTION:Excited to announce yet another blockbuster local first meetup!
-  Join our <a href="https://www.google.com/url?q=https://lfw.dev&amp\;sa=D&a
- mp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1t4HJjBc-fW0zxwUO5dlEa" targe
- t="_blank">local-first community</a> and catch up on <a href="https://www.g
- oogle.com/url?q=https://youtube.com/playlist?list%3DPLTbD2QA-VMnXFsLbuPGz1H
- -Najv9MD2-H&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw1Y4p-C
- 1fTby1jbor6ef3gR" target="_blank">previous meetups</a>.<br><br>Scheduled Ta
- lks for Tuesday\, May 30th\, @ 2 PM ET.  <p><b>Excalidraw\, a local first v
- irtual whiteboard</b><br>- by <a href="https://www.google.com/url?q=https:/
- /twitter.com/Vjeux&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVa
- w3-HGiM4v6i-UIpRNnYP7ik" target="_blank">Christopher Chedeau</a>\, building
-  <a href="https://www.google.com/url?q=https://twitter.com/excalidraw&amp\;
- sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw39dEZTsvMb0px8207D0uXu"
-  target="_blank">@excalidraw</a></p><p><b>Making multiplayer easy with Repl
- icache<br></b>- by <a href="https://www.google.com/url?q=https://twitter.co
- m/aboodman&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3JUu9Jj
- 2MiFp4Q_blAgBDt" target="_blank">Aaron Boodman</a>\, building <a href="http
- s://www.google.com/url?q=https://twitter.com/replicache&amp\;sa=D&amp\;sour
- ce=calendar&amp\;usd=2&amp\;usg=AOvVaw0pd4_0G-ZFX0sZFOuAXR2F" target="_blan
- k">@replicache</a></p><b>P2P: the true serverless <br></b>- by <a href="htt
- ps://www.google.com/url?q=https://twitter.com/getifyAtSocket&amp\;sa=D&amp\
- ;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3KNkDe1vncVtEM_3RrT8To" target="
- _blank"><u>Kyle Simson</u></a>\, building <a href="https://www.google.com/u
- rl?q=https://twitter.com/socketsupply&amp\;sa=D&amp\;source=calendar&amp\;u
- sd=2&amp\;usg=AOvVaw2c3mUWbO0UmYfeV9PvA-iT" target="_blank"><u>@socketsuppl
- y</u></a><br><br><br>Alternate streaming link: <a href="https://www.google.
- com/url?q=https://youtube.com/live/7Bb0KRLL8FI?feature%3Dshare&amp\;sa=D&am
- p\;source=calendar&amp\;usd=2&amp\;usg=AOvVaw3chTMuJ4Okfe7XHgD6oA_W" target
- ="_blank">https://youtube.com/live/7Bb0KRLL8FI?feature=share</a><br><br>See
-  you there\, <br>Yonatan @<a href="https://www.google.com/url?q=https://twi
- tter.com/founderYonz&amp\;sa=D&amp\;source=calendar&amp\;usd=2&amp\;usg=AOv
- Vaw2tMkqkUW8YSRBcimKhFvkb" target="_blank">founderYonz</a>
-LAST-MODIFIED:20230508T165049Z
-LOCATION:https://discord.gg/Sw2zhs6p?event=1102927548079423518
+UID:6367202b-852e-49a9-b227-6ebfecc0974d
 SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Local First Meetup #4
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P0DT0H10M0S
-DESCRIPTION:This is an event reminder
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P0DT0H30M0S
-DESCRIPTION:This is an event reminder
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20230627T160000Z
-DTEND:20230627T173000Z
-DTSTAMP:20230614T223718Z
-UID:2qag9t93eagsisinof3ods01en@google.com
-CREATED:20230614T222702Z
-DESCRIPTION:<p>Excited to announce yet another blockbuster local first meet
- up! Join our <a href="https://lfw.dev"><u>local-first community</u></a> and
-  catch up on <a href="https://youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuP
- Gz1H-Najv9MD2-H"><u>previous meetups</u></a>.<br><br><b>Alternate Link: </b
- ><a href="https://youtube.com/live/Z0nzsxhoToo?feature=share">Youtube Live<
- /a><br><br><b>Scheduled Talks:</b><br>YifengWang (@doodlewind)<br><span>Co-
- founder and editor team lead at AFFiNE. Spent years in rich-text editing\, 
- graphics\, real-time collaboration and open-source communities.</span></p><
- p><span>AFFiNE: local-first knowledge base powered by our open-source infra
- </span><span><br></span></p><ul> <li>CRDT-driven doc\, table and whiteboard
-  editors</li> <li>New editor framework built on top of CRDT</li> <li>Local-
- first database written in Rust</li></ul><p>StevenFabre (<a href="https://tw
- itter.com/stevenfabre">@stevenfabre</a>)<br><span>Co-founder and CEO of Liv
- eblocks\, a company building a real-time collaboration infrastructure for d
- evelopers. Before that\, he was running Easee\, a web animation tool for de
- signers that was acquired in April 2016 by InVision. And that eventually le
- d him to work on design systems and tooling at Messenger.</span><br></p><p>
- Talk:Multiplayer isn’t enough</p><ul> <li>What it takes to build great coll
- aborative SaaS     products</li> <li>The importance of tooling when buildin
- g collaborative     experiences</li> <li>How Liveblocks helps you build col
- laborative products</li></ul><p> </p><p>MatthewWeidner (<a href="https://tw
- itter.com/MatthewWeidner3">@MatthewWeidner3</a>)<br><span>PhD student at Ca
- rnegie Mellon researching collaborative appalgorithms &amp\; APIs.</span></
- p><p>Talk: Using and implementing collaborative data structures with Collab
- s </p><ul> <li>CRDT-powered collaboration in TypeScript</li> <li>Custom con
- flict resolution for your apps and ideas</li> <li>Rich text\, recipes\, &am
- p\; more</li></ul>
-LAST-MODIFIED:20230614T223708Z
-LOCATION:https://lofi.software
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:LoFi (Local-First) Meetup #5
-TRANSP:TRANSPARENT
-ATTACH;FILENAME=meetup5.png;FMTTYPE=image/png:https://drive.google.com/open
- ?id=19G03mmJ6kQMR-RCWD31qsQJP03ZDv5y9&authuser=1
+DTSTAMP:20230921T153742Z
+DTSTART:20230926T150000Z
+DTEND:20230926T150000Z
+SUMMARY:LoFi/8
+LOCATION:Discord: LoFi (Local First) server\, Stage
+DESCRIPTION:LoFi/8 on Tuesday\, September 26\, 2023 11:00 AM is coming up 
+ in 5 days  We have prepared yet another fantastic lineup with @heapwolf @m
+ arcus_pousette\, and @visheratin.  Twitter thread: https://x.com/founderYo
+ nz/status/1704881606488445275?s=20\n\nOur first speaker\, Paolo (@heapwolf
+  )\, is the first engineering hire @socketsupply -- a p2p application plat
+ form. He will share how to build zero server LoFi apps through an example 
+ discord replacement app.  \n\nOur second speaker\, @marcus_pousette\, will
+  share his experience building peerbit.org --a P2P\, E2EE\, auto-sharded\,
+  and searchable database. \n\n\nOur final speaker\, @visheratin\, will sho
+ w us how to build small and powerful neural networks in the browser with w
+ eb-ai (https://github.com/visheratin/web-ai)
 END:VEVENT
 END:VCALENDAR

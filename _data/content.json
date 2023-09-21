@@ -255,6 +255,12 @@
             "author": "JourneyApps",
             "url": "https://www.powersync.co",
             "icon": "https://journeyapps.com/assets/images/powersync-hexasync-icon-001.png"
+          },
+          {
+              "title": "Sockethub",
+              "author": "Nick Jennings",
+              "url": "http://sockethub.org",
+              "icon": "http://sockethub.org/favicon.ico"
           }
         ]
       },
