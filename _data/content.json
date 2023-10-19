@@ -196,6 +196,12 @@
             "author": "dxos.org",
             "url": "https://dxos.org",
             "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
+          },
+          {
+            "title": "m-ld",
+            "author": "George Svarovsky et al.",
+            "url": "https://m-ld.org/",
+            "icon": "https://m-ld.org/m-ld.inverse.svg"
           }
         ]
       },
@@ -273,6 +279,12 @@
               "author": "Nick Jennings",
               "url": "http://sockethub.org",
               "icon": "http://sockethub.org/favicon.ico"
+          },
+          {
+            "title": "m-ld",
+            "author": "George Svarovsky et al.",
+            "url": "https://m-ld.org/",
+            "icon": "https://m-ld.org/m-ld.inverse.svg"
           }
         ]
       },
