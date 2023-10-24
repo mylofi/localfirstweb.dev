@@ -2,23 +2,26 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:6367202b-852e-49a9-b227-6ebfecc0974d
+UID:812efbbb-75d8-4f31-a2ba-6f4cce7ceb17
 SEQUENCE:0
-DTSTAMP:20230921T153742Z
-DTSTART:20230926T150000Z
-DTEND:20230926T150000Z
-SUMMARY:LoFi/8
+DTSTAMP:20231024T173353Z
+DTSTART:20231031T150000Z
+DTEND:20231031T150000Z
+SUMMARY:LoFi/9
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:LoFi/8 on Tuesday\, September 26\, 2023 11:00 AM is coming up 
- in 5 days  We have prepared yet another fantastic lineup with @heapwolf @m
- arcus_pousette\, and @visheratin.  Twitter thread: https://x.com/founderYo
- nz/status/1704881606488445275?s=20\n\nOur first speaker\, Paolo (@heapwolf
-  )\, is the first engineering hire @socketsupply -- a p2p application plat
- form. He will share how to build zero server LoFi apps through an example 
- discord replacement app.  \n\nOur second speaker\, @marcus_pousette\, will
-  share his experience building peerbit.org --a P2P\, E2EE\, auto-sharded\,
-  and searchable database. \n\n\nOur final speaker\, @visheratin\, will sho
- w us how to build small and powerful neural networks in the browser with w
- eb-ai (https://github.com/visheratin/web-ai)
+DESCRIPTION:Talk #1 : Productionizing CRDTs with Y-Sweet by Paul Butler\n 
+    - Why Yjs? \n    - CRDTs for more than just text\n    - Scaling a CRDT 
+ backend\nBio: Paul is the co-founder of Drifting in Space Corp\, which bui
+ lds server infrastructure for browser-based applications.  Previously  at 
+ Google & Two Sigma. \n\nTalk #2: Building more human software  by James Ad
+ dison\n    - Malleable software\n    - Data-detectors & generative AI\n   
+  - Mixed-media interactions\nBio: Researching collaborative & malleable so
+ ftware\,  @replit and ex @tldraw.\n\nTalk #3: Beyond Apps: the future shap
+ e of software by Jess Martin. \n    - Data and identity silos prevent core
+  workflows across app boundaries\n    - DXOS is a working architecture for
+  breaking those silos\n    - Composer is a developer-first\, open source s
+ uper-app that you can modify and extend\nBio: Jess is a tool smith and sof
+ tware philosopher focused on making computers more expressive. He has led 
+ teams to develop dozens of products spanning startups to the Fortune 100.
 END:VEVENT
 END:VCALENDAR
