@@ -208,6 +208,12 @@
             "author": "George Svarovsky et al.",
             "url": "https://m-ld.org/",
             "icon": "https://m-ld.org/m-ld.inverse.svg"
+          },
+          {
+            "title": "Triplit",
+            "author": "Aspen Cloud",
+            "url": "https://triplit.dev",
+            "icon": "https://triplit.dev/favicon.ico"
           }
         ]
       },
