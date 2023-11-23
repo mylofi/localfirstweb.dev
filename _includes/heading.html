@@ -1,0 +1,27 @@
+<aside>
+  {% assign info = site.data.heading %} {% assign meetup = site.data.heading.meetup %}
+  <div class="heading">
+    Join our
+    <a class="noUnderline" href="{{info.lofi_discord}}" target="_blank">
+      <img class="discord" src="/assets/images/discord.svg" />
+    </a>
+    community and attend the
+    <a href="{{meetup.discord_link}}" target="_blank">next meetup</a>
+  </div>
+  <a href="{{meetup.discord_link}}" target="_blank">
+    <img class="feature" src="{{meetup.graphic}}" />
+  </a>
+  {{meetup.date}}
+  <br />
+  <a class="icons" href="{{meetup.calendar_ics}}" download>
+    <img class="icons" src="{{info.meetup.calendar_icon}}" />
+  </a>
+  <a class="icons" target="_blank" href="{{meetup.youtube_link}}">
+    <img class="icons" src="{{meetup.youtube_icon}}" />
+  </a>
+  <a class="icons" target="_blank" href="{{meetup.gcal_link}}">
+    <img class="icons" src="{{meetup.gcal_icon}}" />
+  </a>
+  <br />
+  <a href="{{info.lofi_playlist}}" target="_blank">Catch up on the previous talks</a>
+</aside>
