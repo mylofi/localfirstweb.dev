@@ -9,34 +9,8 @@ layout: compress
   users own their data?
   <b>Welcome to the world of local-first web&nbsp;development.</b>
 </summary>
-<aside>
-  <div class="heading">
-    Join our
-    <a href="https://discord.gg/lfwdev" target="_blank"><img class="discord"
-      src="/assets/images/discord.svg" /></a>
-    community and attend
-    <a href="https://discord.gg/UTQ5WQzASF?event=1156944839540232334"
-    target="_blank">the next meetup</a>
-    </a>
-  </div>
-  <a href="https://discord.gg/UTQ5WQzASF?event=1156944839540232334"
-    target="_blank"><img class="feature" src="/assets/images/meetup9.png" />
-  </a>
-  Tuesday September 26, 2023 @ 11AM EST
-  <br/>
-  <a href="/assets/LoFi_Meetup.ics" download><img class="discord" src="/assets/images/Oct31.png" /></a>
-  <a target="_blank"
-    href="https://youtube.com/live/66WQQFGB6h8?feature=share ">
-    <img class="discord"
-      src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"></a>
-  <a target="_blank"
-    href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MnZsazRqcmplOGI1bDZ1dGppZTUxNGEyYzkgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&amp;tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com">
-    <img class="discord"
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"></a>
-  <br/>
-  <a href="https://www.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H"
-    target="_blank">Catch up on the previous talks</a>
-</aside>
+{% include heading.html %}
+
 <main>
   {%for group in site.data.content%}
   <h2><em>{{group.index}}.</em> {{group.title}}</h2>
