@@ -1,13 +1,13 @@
 {
   "lofi_discord": "https://discord.gg/lfwdev",
   "meetup": {
-    "date": "Tuesday September 26, 2023 @ 11AM EST",
-    "graphic": "/assets/images/meetup9.png",
+    "date": "Tuesday November 28, 2023 @ 11AM EST",
+    "graphic": "/assets/images/meetup10.png",
     "discord_link": "https://discord.gg/d7sgWYWkgp?event=1171500361979269251",
-    "youtube_link": "https://youtube.com/live/66WQQFGB6h8?feature=share",
+    "youtube_link": "https://youtube.com/live/R-ztBSo4V5k?feature=share",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
-    "calendar_icon": "/assets/images/Oct31.png",
-    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MnZsazRqcmplOGI1bDZ1dGppZTUxNGEyYzkgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&amp;tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
+    "calendar_icon": "/assets/images/Nov28.png",
+    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NGI5c2Z1ZGRsbnIxbzVkOWdpcGM0MmJhZ2MgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
     "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
     "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"
   },

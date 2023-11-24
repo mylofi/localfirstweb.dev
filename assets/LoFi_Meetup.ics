@@ -2,26 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:812efbbb-75d8-4f31-a2ba-6f4cce7ceb17
+UID:f11f9ff3-711c-4691-8296-11d3939d553f
 SEQUENCE:0
-DTSTAMP:20231024T173353Z
-DTSTART:20231031T150000Z
-DTEND:20231031T150000Z
-SUMMARY:LoFi/9
+DTSTAMP:20231124T181952Z
+DTSTART:20231127T160000Z
+DTEND:20231127T160000Z
+SUMMARY:LoFi/10
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:Talk #1 : Productionizing CRDTs with Y-Sweet by Paul Butler\n 
-    - Why Yjs? \n    - CRDTs for more than just text\n    - Scaling a CRDT 
- backend\nBio: Paul is the co-founder of Drifting in Space Corp\, which bui
- lds server infrastructure for browser-based applications.  Previously  at 
- Google & Two Sigma. \n\nTalk #2: Building more human software  by James Ad
- dison\n    - Malleable software\n    - Data-detectors & generative AI\n   
-  - Mixed-media interactions\nBio: Researching collaborative & malleable so
- ftware\,  @replit and ex @tldraw.\n\nTalk #3: Beyond Apps: the future shap
- e of software by Jess Martin. \n    - Data and identity silos prevent core
-  workflows across app boundaries\n    - DXOS is a working architecture for
-  breaking those silos\n    - Composer is a developer-first\, open source s
- uper-app that you can modify and extend\nBio: Jess is a tool smith and sof
- tware philosopher focused on making computers more expressive. He has led 
- teams to develop dozens of products spanning startups to the Fortune 100.
+DESCRIPTION:We have another fantastic lineup featuring @gsvarovsky\, \n@th
+ reepointone\, and @RangerMauve checkout https://x.com/founderYonz/status/1
+ 728109617220317273 for more details\n\nOur first speaker George @gsvarovsk
+ y\, is the CTO at m-ld.org with a wide-ranging engineering experience. He 
+ will talk to us about Sharing Live Information with m-ld.\n\nOur Second sp
+ eaker Sunil @threepointone\, is the founder of @partykit_io and will talk 
+ to us about the future of serverless.\n\nOur final speaker\, Mauve @Ranger
+ Mauve\, is a decentralized software consultant focused on p2p and spatial 
+ computing\; they will be talking to us about @AgregoreBrowser and p2p loca
+ l-first development.
 END:VEVENT
 END:VCALENDAR
