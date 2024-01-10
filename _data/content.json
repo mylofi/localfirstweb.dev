@@ -303,6 +303,12 @@
             "author": "George Svarovsky et al.",
             "url": "https://m-ld.org/",
             "icon": "https://m-ld.org/m-ld.inverse.svg"
+          },
+          {
+            "title": "Loro",
+            "author": "Loro",
+            "url": "https://loro.dev/",
+            "icon": "https://loro.dev/favicon.ico"
           }
         ]
       },
