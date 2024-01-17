@@ -2,22 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f11f9ff3-711c-4691-8296-11d3939d553f
+UID:7f3af228-fe5e-444f-919a-f1d678085110
 SEQUENCE:0
-DTSTAMP:20231124T181952Z
-DTSTART:20231127T160000Z
-DTEND:20231127T160000Z
-SUMMARY:LoFi/10
+DTSTAMP:20240117T013812Z
+DTSTART:20240130T160000Z
+DTEND:20240130T160000Z
+SUMMARY:LoFi/11
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:We have another fantastic lineup featuring @gsvarovsky\, \n@th
- reepointone\, and @RangerMauve checkout https://x.com/founderYonz/status/1
- 728109617220317273 for more details\n\nOur first speaker George @gsvarovsk
- y\, is the CTO at m-ld.org with a wide-ranging engineering experience. He 
- will talk to us about Sharing Live Information with m-ld.\n\nOur Second sp
- eaker Sunil @threepointone\, is the founder of @partykit_io and will talk 
- to us about the future of serverless.\n\nOur final speaker\, Mauve @Ranger
- Mauve\, is a decentralized software consultant focused on p2p and spatial 
- computing\; they will be talking to us about @AgregoreBrowser and p2p loca
- l-first development.
+DESCRIPTION:We have prepared yet another fantastic lineup for LoFi/11 feat
+ uring Geoffrey Litt\, Neftaly Hernandez\, and Kyle Mathews. https://twitte
+ r.com/founderYonz/status/1747432811731320926 (spread the word)\n\n*Schedul
+ ed talks*\nSimple ElectricSQL app codebases\n-- Kyle Mathews\, creator @Ga
+ tsbyJS\n\nTiny Essay Editor: a local-first writing tool\n-- Geoffrey Litt\
+ , researcher @inkandswitch\n\nBoring local-first\n-- Neftaly Hernandez\, p
+ eer-to-peer contributor\n\nEvent Organizer: Lofi.Software\nBackup Stream: 
+ https://youtube.com/live/M-e4lWIH_jQ?feature=share
 END:VEVENT
 END:VCALENDAR
