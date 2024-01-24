@@ -118,6 +118,12 @@
             "author": "Johannes Schickling",
             "url": "https://www.youtube.com/watch?v=qHSI5rxTp_Q",
             "icon": "https://img.youtube.com/vi/qHSI5rxTp_Q/sddefault.jpg"
+          },
+          {
+            "title": "localfirst.fm: podcast about local-first software development",
+            "author": "Johannes Schickling",
+            "url": "https://www.localfirst.fm",
+            "icon": "https://www.localfirst.fm/_next/static/media/poster.c846b7aa.png"
           }
         ]
       }
