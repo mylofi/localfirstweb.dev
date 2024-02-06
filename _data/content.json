@@ -186,6 +186,12 @@
             "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
           },
           {
+            "title": "Socket Runtime",
+            "author": "Socket Runtime Team",
+            "url": "https://github.com/socketsupply/socket",
+            "icon": "https://socketsupply.co/images/monogram.svg"
+          },
+          {
             "title": "SyncedStore",
             "author": "Yousef El-Dardiry",
             "url": "https://syncedstore.org",
