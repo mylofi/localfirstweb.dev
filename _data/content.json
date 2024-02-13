@@ -138,6 +138,12 @@
         "class": "row2",
         "items": [
           {
+            "title": "Fireproof",
+            "author": "Fireproof team",
+            "url": "https://use-fireproof.com/",
+            "icon": "https://fireproof.storage/static/img/flame.svg"
+          },
+          {
             "title": "PouchDB",
             "author": "PouchDB contributors",
             "url": "https://pouchdb.com",
