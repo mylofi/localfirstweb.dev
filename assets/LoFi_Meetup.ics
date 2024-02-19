@@ -2,20 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:7f3af228-fe5e-444f-919a-f1d678085110
+UID:be4723c8-3532-4473-a90e-ec359ef78e4b
 SEQUENCE:0
-DTSTAMP:20240117T013812Z
-DTSTART:20240130T160000Z
-DTEND:20240130T160000Z
-SUMMARY:LoFi/11
+DTSTAMP:20240219T220409Z
+DTSTART:20240227T160000Z
+DTEND:20240227T173000Z
+SUMMARY:LoFi/12 Anniversary Edition
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:We have prepared yet another fantastic lineup for LoFi/11 feat
- uring Geoffrey Litt\, Neftaly Hernandez\, and Kyle Mathews. https://twitte
- r.com/founderYonz/status/1747432811731320926 (spread the word)\n\n*Schedul
- ed talks*\nSimple ElectricSQL app codebases\n-- Kyle Mathews\, creator @Ga
- tsbyJS\n\nTiny Essay Editor: a local-first writing tool\n-- Geoffrey Litt\
- , researcher @inkandswitch\n\nBoring local-first\n-- Neftaly Hernandez\, p
- eer-to-peer contributor\n\nEvent Organizer: Lofi.Software\nBackup Stream: 
- https://youtube.com/live/M-e4lWIH_jQ?feature=share
+DESCRIPTION:Tune in for the LoFi/12 meetup. We have assembled an all-star
+ lineup for our first anniversary featuring Martin Kleppmann\, Kyle Simpson
+ \, James Arthur and Yonatan Feleke. We also have a couple of surprise anno
+ uncements\; make sure to tune in by visiting https://lofi.software.\n\nSes
+ sion details\nAttend over Discord: https://lofi.software or backup Youtub
+ e stream\n\nScheduled talks\nWhere local-first came from & where it's goin
+ g\n- Martin Kleppmann\, @inkandswitch\n\nLocal-First Authentication\n- Kyl
+ e Simpson & Yonatan Feleke\, @getallspark\n\nLocal-first Al\n- James Arthu
+ r\, founder @ElectricsQL
 END:VEVENT
 END:VCALENDAR
