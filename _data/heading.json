@@ -1,13 +1,14 @@
 {
   "lofi_discord": "https://discord.gg/lfwdev",
   "meetup": {
-    "date": "Tuesday February 27, 2024 @ 11AM EST",
+    "date": "Tuesday March 26, 2024 @ 11AM EST",
     "graphic": "/assets/images/meetup12.png",
-    "discord_link": "https://discord.gg/Y57f7vwf6R?event=1204150506826764329",
-    "youtube_link": "https://youtube.com/live/z_rdxOxXDXQ",
+    "discord_link": "https://discord.gg/lfwdev?event=1213217027989315695",
+    "youtube_link": "https://www.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H",
+    "recording_link": "https://youtu.be/6Q0yb_ROUBQ?feature=shared",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
-    "calendar_icon": "/assets/images/Feb27.png",
-    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmtwbThvaGljaGhtMmJiMTZnc2oyYjlrNjRxbWFiOXA2c28zZWJiMmM1ajMyb2hwY3BnbWFvcjRjNCBmODA0YThmNTcwY2JlOGI5Y2ZkOTUxODczMmYyNzIzYTUzNzExYTIxNzU5NjJlOTBkNTg1ODE3YzNhY2UyOWUzQGc&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
+    "calendar_icon": "/assets/images/march26.png",
+    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjRtZDJlbnZ1bWl0MnVrZmdyYTM1YWZwdTAgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
     "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
     "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"
   },

@@ -2,21 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:be4723c8-3532-4473-a90e-ec359ef78e4b
+UID:15c93414-de0b-45f8-825d-b536abe2a63a
 SEQUENCE:0
-DTSTAMP:20240219T220409Z
-DTSTART:20240227T160000Z
-DTEND:20240227T173000Z
-SUMMARY:LoFi/12 Anniversary Edition
+DTSTAMP:20240301T202034Z
+DTSTART:20240326T150000Z
+DTEND:20240326T150000Z
+SUMMARY:LoFi/13
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:Tune in for the LoFi/12 meetup. We have assembled an all-star
- lineup for our first anniversary featuring Martin Kleppmann\, Kyle Simpson
- \, James Arthur and Yonatan Feleke. We also have a couple of surprise anno
- uncements\; make sure to tune in by visiting https://lofi.software.\n\nSes
- sion details\nAttend over Discord: https://lofi.software or backup Youtub
- e stream\n\nScheduled talks\nWhere local-first came from & where it's goin
- g\n- Martin Kleppmann\, @inkandswitch\n\nLocal-First Authentication\n- Kyl
- e Simpson & Yonatan Feleke\, @getallspark\n\nLocal-first Al\n- James Arthu
- r\, founder @ElectricsQL
+DESCRIPTION:We have a awesome lofi-identity\, PowerSync & Evolu presentati
+ on coming up for LoFi/13. Further details coming soon...
 END:VEVENT
 END:VCALENDAR
