@@ -144,6 +144,12 @@
             "icon": "https://fireproof.storage/static/img/flame.svg"
           },
           {
+            "title": "Dexie.js",
+            "author": "David Fahlander",
+            "url": "https://dexie.org/",
+            "icon": "https://dexie.org/assets/images/dexie-icon-64x64.png"
+          },
+          {
             "title": "PouchDB",
             "author": "PouchDB contributors",
             "url": "https://pouchdb.com",
@@ -245,6 +251,12 @@
         "title": "Syncing data",
         "items": [
           {
+            "title": "Dexie Cloud",
+            "author": "Awarica AB",
+            "url": "https://dexie.org/cloud/",
+            "icon": "https://dexie.org/assets/images/dexie-icon-64x64.png"
+          },
+          {
             "title": "Yjs",
             "author": "Kevin Jahns & contributors",
             "url": "https://yjs.dev",
@@ -311,10 +323,10 @@
             "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           },
           {
-              "title": "Sockethub",
-              "author": "Nick Jennings",
-              "url": "http://sockethub.org",
-              "icon": "http://sockethub.org/favicon.ico"
+            "title": "Sockethub",
+            "author": "Nick Jennings",
+            "url": "http://sockethub.org",
+            "icon": "http://sockethub.org/favicon.ico"
           },
           {
             "title": "m-ld",
