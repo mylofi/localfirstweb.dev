@@ -474,6 +474,12 @@
             "author": "Strut contributors",
             "url": "https://strut.io",
             "icon": "https://strut.io/favicon.ico"
+          },
+          {
+            "title": "DXOS Composer",
+            "author": "dxos.org",
+            "url": "https://composer.dxos.org",
+            "icon": "https://composer.dxos.org/android-chrome-512x512.png"
           }
         ]
       }
