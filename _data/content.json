@@ -138,40 +138,16 @@
         "class": "row2",
         "items": [
           {
-            "title": "Fireproof",
-            "author": "Fireproof team",
-            "url": "https://use-fireproof.com/",
-            "icon": "https://fireproof.storage/static/img/flame.svg"
-          },
-          {
             "title": "Dexie.js",
             "author": "David Fahlander",
             "url": "https://dexie.org/",
             "icon": "https://dexie.org/assets/images/dexie-icon-64x64.png"
           },
           {
-            "title": "PouchDB",
-            "author": "PouchDB contributors",
-            "url": "https://pouchdb.com",
-            "icon": "https://pouchdb.com/static/favicon.ico"
-          },
-          {
-            "title": "RxDB",
-            "author": "Daniel Meyer",
-            "url": "https://rxdb.info",
-            "icon": "https://rxdb.info/files/logo/logo.svg"
-          },
-          {
-            "title": "VLCN",
-            "author": "Matt Wonlaw",
-            "url": "https://vlcn.io",
-            "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
-          },
-          {
-            "title": "TinyBase",
-            "author": "James Pearce",
-            "url": "https://tinybase.org",
-            "icon": "https://tinybase.org/favicon.svg"
+            "title": "DXOS",
+            "author": "dxos.org",
+            "url": "https://dxos.org",
+            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           },
           {
             "title": "ElectricSQL",
@@ -186,10 +162,10 @@
             "icon": "https://raw.githubusercontent.com/evoluhq/evolu/main/apps/web/public/favicon-32x32.png"
           },
           {
-            "title": "Instant",
-            "author": "Stepan Parunashvili",
-            "url": "https://www.instantdb.com",
-            "icon": "https://www.instantdb.com/playful_sun.svg"
+            "title": "Fireproof",
+            "author": "Fireproof team",
+            "url": "https://use-fireproof.com/",
+            "icon": "https://fireproof.storage/static/img/flame.svg"
           },
           {
             "title": "Gun",
@@ -198,10 +174,34 @@
             "icon": "https://gun.eco/icons/icon-48x48.png?v=dfecf3c0fa09798b200a8a8b9fa0f172"
           },
           {
-            "title": "WatermelonDB",
-            "author": "Radek Pietruszewski / Nozbe",
-            "url": "https://watermelondb.dev",
-            "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
+            "title": "Instant",
+            "author": "Stepan Parunashvili",
+            "url": "https://www.instantdb.com",
+            "icon": "https://www.instantdb.com/playful_sun.svg"
+          },
+          {
+            "title": "m-ld",
+            "author": "George Svarovsky et al.",
+            "url": "https://m-ld.org/",
+            "icon": "https://m-ld.org/m-ld.inverse.svg"
+          },
+          {
+            "title": "PouchDB",
+            "author": "PouchDB contributors",
+            "url": "https://pouchdb.com",
+            "icon": "https://pouchdb.com/static/favicon.ico"
+          },
+          {
+            "title": "remoteStorage",
+            "author": "remoteStorage contributors",
+            "url": "https://remotestorage.io",
+            "icon": "https://remotestorage.io/img/icon.svg"
+          },
+          {
+            "title": "RxDB",
+            "author": "Daniel Meyer",
+            "url": "https://rxdb.info",
+            "icon": "https://rxdb.info/files/logo/logo.svg"
           },
           {
             "title": "Socket Runtime",
@@ -216,81 +216,22 @@
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
           },
           {
-            "title": "remoteStorage",
-            "author": "remoteStorage contributors",
-            "url": "https://remotestorage.io",
-            "icon": "https://remotestorage.io/img/icon.svg"
-          },
-          {
-            "title": "Verdant",
-            "author": "Grant Forrest",
-            "url": "https://verdant.dev",
-            "icon": "https://verdant.dev/favicon-32x32.png"
-          },
-          {
-            "title": "DXOS",
-            "author": "dxos.org",
-            "url": "https://dxos.org",
-            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
-          },
-          {
-            "title": "m-ld",
-            "author": "George Svarovsky et al.",
-            "url": "https://m-ld.org/",
-            "icon": "https://m-ld.org/m-ld.inverse.svg"
+            "title": "TinyBase",
+            "author": "James Pearce",
+            "url": "https://tinybase.org",
+            "icon": "https://tinybase.org/favicon.svg"
           },
           {
             "title": "Triplit",
             "author": "Aspen Cloud",
             "url": "https://triplit.dev",
             "icon": "https://triplit.dev/favicon.ico"
-          }
-        ]
-      },
-      {
-        "title": "Syncing data",
-        "items": [
-          {
-            "title": "Dexie Cloud",
-            "author": "Awarica AB",
-            "url": "https://dexie.org/cloud/",
-            "icon": "https://dexie.org/assets/images/dexie-icon-64x64.png"
           },
           {
-            "title": "Yjs",
-            "author": "Kevin Jahns & contributors",
-            "url": "https://yjs.dev",
-            "icon": "https://yjs.dev/images/logo/yjs.svg"
-          },
-          {
-            "title": "Automerge",
-            "author": "Ink & Switch and contributors",
-            "url": "https://automerge.org",
-            "icon": "https://automerge.org/img/favicon.ico"
-          },
-          {
-            "title": "Replicache",
-            "author": "Rocicorp",
-            "url": "https://replicache.dev",
-            "icon": "https://replicache.dev/icons/favicon-32x32.png"
-          },
-          {
-            "title": "hocuspocus",
-            "author": "ueberdosis",
-            "url": "https://tiptap.dev/hocuspocus/",
-            "icon": "https://yjs.dev/images/logo/yjs.svg"
-          },
-          {
-            "title": "Amplify DataStore",
-            "author": "Amazon Web Services",
-            "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
-            "icon": "https://d0.awsstatic.com/logos/powered-by-aws-white.png"
-          },
-          {
-            "title": "Collabs",
-            "author": "Composable Systems Lab @ CMU",
-            "url": "https://collabs.readthedocs.io/en/latest/",
-            "icon": "https://collabs.readthedocs.io/en/latest/_static/favicon.ico"
+            "title": "Verdant",
+            "author": "Grant Forrest",
+            "url": "https://verdant.dev",
+            "icon": "https://verdant.dev/favicon-32x32.png"
           },
           {
             "title": "VLCN",
@@ -299,22 +240,45 @@
             "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
           },
           {
+            "title": "WatermelonDB",
+            "author": "Radek Pietruszewski / Nozbe",
+            "url": "https://watermelondb.dev",
+            "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
+          }
+        ]
+      },
+      {
+        "title": "Syncing data",
+        "items": [
+          {
+            "title": "Amplify DataStore",
+            "author": "Amazon Web Services",
+            "url": "https://docs.amplify.aws/lib/datastore/getting-started/q/platform/js/",
+            "icon": "https://d0.awsstatic.com/logos/powered-by-aws-white.png"
+          },
+          {
+            "title": "Automerge",
+            "author": "Ink & Switch and contributors",
+            "url": "https://automerge.org",
+            "icon": "https://automerge.org/img/favicon.ico"
+          },
+          {
+            "title": "Collabs",
+            "author": "Composable Systems Lab @ CMU",
+            "url": "https://collabs.readthedocs.io/en/latest/",
+            "icon": "https://collabs.readthedocs.io/en/latest/_static/favicon.ico"
+          },
+          {
+            "title": "Dexie Cloud",
+            "author": "Awarica AB",
+            "url": "https://dexie.org/cloud/",
+            "icon": "https://dexie.org/assets/images/dexie-icon-64x64.png"
+          },
+          {
             "title": "Ditto",
             "author": "Ditto Live, Inc",
             "url": "https://ditto.live",
             "icon": "https://www.ditto.live/_next/static/media/blue.d20274dd.svg"
-          },
-          {
-            "title": "Verdant",
-            "author": "Grant Forrest",
-            "url": "https://verdant.dev",
-            "icon": "https://verdant.dev/favicon-32x32.png"
-          },
-          {
-            "title": "PowerSync",
-            "author": "JourneyApps",
-            "url": "https://www.powersync.co",
-            "icon": "https://journeyapps.com/assets/images/powersync-hexasync-icon-001.png"
           },
           {
             "title": "DXOS",
@@ -323,10 +287,16 @@
             "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           },
           {
-            "title": "Sockethub",
-            "author": "Nick Jennings",
-            "url": "http://sockethub.org",
-            "icon": "http://sockethub.org/favicon.ico"
+            "title": "hocuspocus",
+            "author": "ueberdosis",
+            "url": "https://tiptap.dev/hocuspocus/",
+            "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Loro",
+            "author": "Loro",
+            "url": "https://loro.dev/",
+            "icon": "https://loro.dev/favicon.ico"
           },
           {
             "title": "m-ld",
@@ -335,10 +305,40 @@
             "icon": "https://m-ld.org/m-ld.inverse.svg"
           },
           {
-            "title": "Loro",
-            "author": "Loro",
-            "url": "https://loro.dev/",
-            "icon": "https://loro.dev/favicon.ico"
+            "title": "PowerSync",
+            "author": "JourneyApps",
+            "url": "https://www.powersync.co",
+            "icon": "https://journeyapps.com/assets/images/powersync-hexasync-icon-001.png"
+          },
+          {
+            "title": "Replicache",
+            "author": "Rocicorp",
+            "url": "https://replicache.dev",
+            "icon": "https://replicache.dev/icons/favicon-32x32.png"
+          },
+          {
+            "title": "Sockethub",
+            "author": "Nick Jennings",
+            "url": "http://sockethub.org",
+            "icon": "http://sockethub.org/favicon.ico"
+          },
+          {
+            "title": "Verdant",
+            "author": "Grant Forrest",
+            "url": "https://verdant.dev",
+            "icon": "https://verdant.dev/favicon-32x32.png"
+          },
+          {
+            "title": "VLCN",
+            "author": "Matt Wonlaw",
+            "url": "https://vlcn.io",
+            "icon": "https://vlcn.io/assets/isometrics/box-only-trimmed.png"
+          },
+          {
+            "title": "Yjs",
+            "author": "Kevin Jahns & contributors",
+            "url": "https://yjs.dev",
+            "icon": "https://yjs.dev/images/logo/yjs.svg"
           }
         ]
       },
@@ -356,6 +356,12 @@
             "author": "James Long",
             "url": "https://github.com/jlongster/crdt-example-app",
             "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "TinyRooms",
+            "author": "James Pearce",
+            "url": "https://github.com/tinyplex/tinyrooms",
+            "icon": "https://tinyrooms.jamesgpearce.partykit.dev/favicon.svg"
           }
         ]
       }
@@ -370,28 +376,10 @@
         "class": "row2",
         "items": [
           {
-            "title": "Johannes Schickling",
-            "author": "@schickling",
-            "url": "https://twitter.com/schickling",
-            "icon": "https://pbs.twimg.com/profile_images/1624092671739408417/GGvOzADg_200x200.jpg"
-          },
-          {
-            "title": "James Addison",
-            "author": "@JungleSilicon",
-            "url": "https://twitter.com/JungleSilicon",
-            "icon": "https://pbs.twimg.com/profile_images/1533349821037543425/78oKR_K__200x200.png"
-          },
-          {
-            "title": "Peter van Hardenberg",
-            "author": "@pvh",
-            "url": "https://twitter.com/pvh",
-            "icon": "https://pbs.twimg.com/profile_images/1328185619030306817/E4HOEB1f_200x200.jpg"
-          },
-          {
-            "title": "Matt Wonlaw",
-            "author": "@tantaman",
-            "url": "https://twitter.com/tantaman",
-            "icon": "https://pbs.twimg.com/profile_images/1534358445083791367/cQxb9f9X_200x200.jpg"
+            "title": "Geoffrey Litt",
+            "author": "@geoffreylitt",
+            "url": "https://twitter.com/geoffreylitt",
+            "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
           },
           {
             "title": "Grant Forrest",
@@ -400,10 +388,10 @@
             "icon": "https://pbs.twimg.com/profile_images/1350947174645956609/Ebe_Qd46_200x200.jpg"
           },
           {
-            "title": "Geoffrey Litt",
-            "author": "@geoffreylitt",
-            "url": "https://twitter.com/geoffreylitt",
-            "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
+            "title": "James Addison",
+            "author": "@JungleSilicon",
+            "url": "https://twitter.com/JungleSilicon",
+            "icon": "https://pbs.twimg.com/profile_images/1533349821037543425/78oKR_K__200x200.png"
           },
           {
             "title": "James Pearce",
@@ -412,10 +400,28 @@
             "icon": "https://avatars.githubusercontent.com/u/90942?v=4"
           },
           {
+            "title": "Johannes Schickling",
+            "author": "@schickling",
+            "url": "https://twitter.com/schickling",
+            "icon": "https://pbs.twimg.com/profile_images/1624092671739408417/GGvOzADg_200x200.jpg"
+          },
+          {
+            "title": "Matt Wonlaw",
+            "author": "@tantaman",
+            "url": "https://twitter.com/tantaman",
+            "icon": "https://pbs.twimg.com/profile_images/1534358445083791367/cQxb9f9X_200x200.jpg"
+          },
+          {
             "title": "Mauve Signweaver",
             "author": "@RangerMauve",
             "url": "https://mastodon.mauve.moe/@mauve",
             "icon": "https://mastodon.mauve.moe/system/accounts/avatars/000/000/002/original/e4b910cee121b1b8.png"
+          },
+          {
+            "title": "Peter van Hardenberg",
+            "author": "@pvh",
+            "url": "https://twitter.com/pvh",
+            "icon": "https://pbs.twimg.com/profile_images/1328185619030306817/E4HOEB1f_200x200.jpg"
           }
         ]
       },
@@ -458,6 +464,18 @@
             "icon": "https://agregore.mauve.moe/icon.svg"
           },
           {
+            "title": "Bangle.io",
+            "author": "Kushan Joshi",
+            "url": "https://bangle.io",
+            "icon": "https://app.bangle.io/icon-transparent_x512.png"
+          },
+          {
+            "title": "DXOS Composer",
+            "author": "dxos.org",
+            "url": "https://composer.dxos.org",
+            "icon": "https://composer.dxos.org/android-chrome-512x512.png"
+          },
+          {
             "title": "Excalidraw",
             "author": "Excalidraw contributors",
             "url": "https://excalidraw.com",
@@ -470,28 +488,16 @@
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
           },
           {
-            "title": "Bangle.io",
-            "author": "Kushan Joshi",
-            "url": "https://bangle.io",
-            "icon": "https://app.bangle.io/icon-transparent_x512.png"
-          },
-          {
-            "title": "Textorama",
-            "author": "João Melo",
-            "url": "https://textorama.melo.plus/",
-            "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
-          },
-          {
             "title": "Strut.io",
             "author": "Strut contributors",
             "url": "https://strut.io",
             "icon": "https://strut.io/favicon.ico"
           },
           {
-            "title": "DXOS Composer",
-            "author": "dxos.org",
-            "url": "https://composer.dxos.org",
-            "icon": "https://composer.dxos.org/android-chrome-512x512.png"
+            "title": "Textorama",
+            "author": "João Melo",
+            "url": "https://textorama.melo.plus/",
+            "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
           }
         ]
       }
