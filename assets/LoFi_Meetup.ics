@@ -2,14 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:15c93414-de0b-45f8-825d-b536abe2a63a
+UID:07850937-d2f9-4749-8c4e-833400965406
 SEQUENCE:0
-DTSTAMP:20240301T202034Z
+DTSTAMP:20240325T194804Z
 DTSTART:20240326T150000Z
 DTEND:20240326T150000Z
 SUMMARY:LoFi/13
 LOCATION:Discord: LoFi (Local First) server\, Stage
-DESCRIPTION:We have a awesome lofi-identity\, PowerSync & Evolu presentati
- on coming up for LoFi/13. Further details coming soon...
+DESCRIPTION:Tune into LoFi/13 to catch an update on our lofi-identity effo
+ rts\, and a fantastic lineup featuring: PowerSync\, Evolu.me and Forthink.
+ ai.  \n\nTalk details: https://x.com/devYonz/status/1770228743954690296\n\
+ nSchedule: \nEvolu: a local-first platform designed for privacy\, ease of 
+ use\, and no vendor lock-in\n-- Daniel Steigerwald\, @evoluhq\n\nLocal-fir
+ st state management using PowerSync\n-- Conrad Hofmeyr\, Founder & CEO at 
+ JourneyApps\n\nLocal-first search and navigation\n-- Adam Benenson\, Found
+ er & CEO at Forethink Labs
 END:VEVENT
 END:VCALENDAR
