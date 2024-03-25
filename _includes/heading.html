@@ -8,9 +8,11 @@
     community and attend the
     <a href="{{meetup.discord_link}}" target="_blank">next meetup</a>
   </div>
-
-  {{meetup.date}}
-  <br />
+  {% if meetup.graphic != '' %}
+  <a href="{{meetup.discord_link}}" target="_blank">
+    <img class="feature" src="{{meetup.graphic}}" />
+  </a>
+  {% endif %}
   <a class="icons" href="{{meetup.calendar_ics}}" download>
     <img class="icons" src="{{info.meetup.calendar_icon}}" />
   </a>
@@ -21,8 +23,13 @@
     <img class="icons" src="{{meetup.gcal_icon}}" />
   </a>
   <br />
+  {{meetup.date}}
+  <br />
+  <br />
   <a href="{{info.lofi_playlist}}" target="_blank">Catch up on the previous talks</a>
+  {% if meetup.previous_graphic != '' %}
   <a href="{{meetup.recording_link}}" target="_blank">
-    <img class="feature" src="{{meetup.graphic}}" />
+    <img class="feature" src="{{meetup.previous_graphic}}" />
   </a>
+  {% endif %}
 </aside>

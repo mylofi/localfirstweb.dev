@@ -2,10 +2,11 @@
   "lofi_discord": "https://discord.gg/lfwdev",
   "meetup": {
     "date": "Tuesday March 26, 2024 @ 11AM EST",
-    "graphic": "/assets/images/meetup12.png",
+    "graphic": "/assets/images/meetup13.png",
     "discord_link": "https://discord.gg/lfwdev?event=1213217027989315695",
-    "youtube_link": "https://www.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H",
+    "youtube_link": "https://youtube.com/live/OQXbcbrZXlg",
     "recording_link": "https://youtu.be/6Q0yb_ROUBQ?feature=shared",
+    "previous_graphic": "",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
     "calendar_icon": "/assets/images/march26.png",
     "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjRtZDJlbnZ1bWl0MnVrZmdyYTM1YWZwdTAgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
