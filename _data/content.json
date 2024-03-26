@@ -498,6 +498,12 @@
             "author": "João Melo",
             "url": "https://textorama.melo.plus/",
             "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
+          },
+          {
+            "title": "Tender",
+            "author": "Tender team",
+            "url": "https://tender.run/",
+            "icon": "https://tender.run/logo.svg"
           }
         ]
       }
