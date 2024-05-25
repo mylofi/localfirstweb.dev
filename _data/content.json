@@ -376,10 +376,40 @@
         "class": "row2",
         "items": [
           {
+            "title": "Peter van Hardenberg",
+            "author": "@pvh",
+            "url": "https://twitter.com/pvh",
+            "icon": "https://pbs.twimg.com/profile_images/1328185619030306817/E4HOEB1f_200x200.jpg"
+          },
+          {
+            "title": "Johannes Schickling",
+            "author": "@schickling",
+            "url": "https://twitter.com/schickling",
+            "icon": "https://pbs.twimg.com/profile_images/1624092671739408417/GGvOzADg_200x200.jpg"
+          },
+          {
             "title": "Geoffrey Litt",
             "author": "@geoffreylitt",
             "url": "https://twitter.com/geoffreylitt",
             "icon": "https://pbs.twimg.com/profile_images/722626068293763072/4erM-SPN_200x200.jpg"
+          },
+          {
+            "title": "Yonz",
+            "author": "@devYonz",
+            "url": "https://twitter.com/devYonz",
+            "icon": "https://pbs.twimg.com/profile_images/1144723583492489216/P_w9bGIW_200x200.png"
+          },
+          {
+            "title": "Matt Wonlaw",
+            "author": "@tantaman",
+            "url": "https://twitter.com/tantaman",
+            "icon": "https://pbs.twimg.com/profile_images/1534358445083791367/cQxb9f9X_200x200.jpg"
+          },
+          {
+            "title": "James Pearce",
+            "author": "@jamespearce",
+            "url": "https://twitter.com/jamespearce",
+            "icon": "https://avatars.githubusercontent.com/u/90942?v=4"
           },
           {
             "title": "Grant Forrest",
@@ -391,25 +421,7 @@
             "title": "James Addison",
             "author": "@JungleSilicon",
             "url": "https://twitter.com/JungleSilicon",
-            "icon": "https://pbs.twimg.com/profile_images/1533349821037543425/78oKR_K__200x200.png"
-          },
-          {
-            "title": "James Pearce",
-            "author": "@jamespearce",
-            "url": "https://twitter.com/jamespearce",
-            "icon": "https://avatars.githubusercontent.com/u/90942?v=4"
-          },
-          {
-            "title": "Johannes Schickling",
-            "author": "@schickling",
-            "url": "https://twitter.com/schickling",
-            "icon": "https://pbs.twimg.com/profile_images/1624092671739408417/GGvOzADg_200x200.jpg"
-          },
-          {
-            "title": "Matt Wonlaw",
-            "author": "@tantaman",
-            "url": "https://twitter.com/tantaman",
-            "icon": "https://pbs.twimg.com/profile_images/1534358445083791367/cQxb9f9X_200x200.jpg"
+            "icon": "https://pbs.twimg.com/profile_images/1791889347911860224/pTyfkZVT_200x200.jpg"
           },
           {
             "title": "Mauve Signweaver",
@@ -418,10 +430,10 @@
             "icon": "https://mastodon.mauve.moe/system/accounts/avatars/000/000/002/original/e4b910cee121b1b8.png"
           },
           {
-            "title": "Peter van Hardenberg",
-            "author": "@pvh",
-            "url": "https://twitter.com/pvh",
-            "icon": "https://pbs.twimg.com/profile_images/1328185619030306817/E4HOEB1f_200x200.jpg"
+            "title": "Jess Martin",
+            "author": "@@jessmartin",
+            "url": "https://x.com/jessmartin",
+            "icon": "https://pbs.twimg.com/profile_images/1292828088565477376/FjgsLsU7_200x200.jpg"
           }
         ]
       },
@@ -429,16 +441,16 @@
         "title": "Communities to join",
         "items": [
           {
+            "title": "#LoFi.so Discord",
+            "author": "Local First Software Builders",
+            "url": "https://discord.gg/ZRrwZxn4rW",
+            "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
+          },
+          {
             "title": "Braid",
             "author": "IETF & members",
             "url": "https://braid.org",
             "icon": "https://www.ietf.org/lib/dt/9.8.0/ietf/images/ietf-logo-nor-mask.svg"
-          },
-          {
-            "title": "#LFW.dev Discord",
-            "author": "Local First Web Builders",
-            "url": "https://discord.gg/ZRrwZxn4rW",
-            "icon": "https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg"
           },
           {
             "title": "This page on Hacker News",

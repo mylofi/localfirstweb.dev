@@ -1,17 +1,17 @@
 {
-  "lofi_discord": "https://discord.gg/lfwdev",
+  "lofi_discord": "https://discord.gg/lofi-so",
+  "lofi_playlist": "https://www.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H",
+  "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
+  "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg",
   "meetup": {
-    "date": "Tuesday April 30, 2024 @ 8AM PST",
-    "graphic": "/assets/images/meetup14.png",
-    "discord_link": "https://discord.gg/lfwdev?event=1229115378807083048",
-    "youtube_link": "https://youtube.com/live/RTa0XkQiEG8?feature=share",
-    "recording_link": "https://youtu.be/6Q0yb_ROUBQ?feature=shared",
+    "date": "May 28, 2024 @ 8AM PST",
+    "graphic": "/assets/images/meetup15.png",
+    "discord_link": "https://discord.gg/lofi-so?event=1236094698108616775",
+    "youtube_link": "https://youtube.com/live/Fm_BlBm1gTw?feature=share",
+    "recording_link": "",
     "previous_graphic": "",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
-    "calendar_icon": "/assets/images/April30.png",
-    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MGc3anZnMXZqMzhsN2NwaW1nbm9mOWM0NzIgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com",
-    "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
-    "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg"
-  },
-  "lofi_playlist": "https://www.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H"
+    "calendar_icon": "/assets/images/May28.png",
+    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzY4bzNjY2huNjRyMzBiOW03NHM0YWI5azhjcTM0YmExNzByMzZiOWk2NHA0YWNwajc0bzQ0aDFoNzAgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com"
+  }
 }
