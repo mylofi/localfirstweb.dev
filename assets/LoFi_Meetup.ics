@@ -2,21 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:fd53311c-8400-4529-93e2-1018013f02d1
+UID:480ce582-51de-431a-a900-4ed598182644
 SEQUENCE:0
-DTSTAMP:20240422T234437Z
-DTSTART:20240430T150000Z
-DTEND:20240430T150000Z
-SUMMARY:LoFi/14
+DTSTAMP:20240525T174707Z
+DTSTART:20240528T150000Z
+DTEND:20240528T163000Z
+SUMMARY:LoFi/15
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Tune in to LoFi/14 for another fantastic lineup featuring Chri
- s Anderson (@jchris)\, Zhenya Savchenko\, and Adam Wiggins (@_adamwiggins_
- ).  Announcement thread: https://x.com/devYonz/status/1782553269988147647\
- n\nSession 1: Chris Anderson (@jchris) is building @FireproofStorge and wi
- ll talk to us about a local-first future.\n\nSession 2: Zhenya will discus
- s the privacy-preserving developer platform DXOS (@dxos_org) and their ext
- ensible productivity app Composer. https://dxos.org/.\n\nSession 3: Adam W
- iggins (@_adamwiggins_)\, co-founder of Muse\, Ink & Switch\, and Heroku w
- ill discuss the economics of local-first.
+DESCRIPTION:Join us for our 15th local-first meetup \
+ , we have yet another fantastic lineup featu
+ ring Herb Caudill (@herbcaudill)\, Cainã Costa (@cfcosta_)\, and Jeethu R
+ ao (@jeethu).\n\nSchedule: \nCurrent landscape of on-device LLM inference\
+ n-- Jeethu Rao\, @private_llm\nEventual Consistency in Adversarial Environ
+ ments: CRDTs and Blockchains\n-- Cainã Costa\, @cfcosta_\nAlice and Bob i
+ n Wonderland: Introducing @localfirst/auth\n-- Herb Caudill\, @devresults
 END:VEVENT
 END:VCALENDAR
