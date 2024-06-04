@@ -2,19 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:480ce582-51de-431a-a900-4ed598182644
+UID:4d798b52-b70d-4a7c-86bb-67018a4434a5
 SEQUENCE:0
-DTSTAMP:20240525T174707Z
-DTSTART:20240528T150000Z
-DTEND:20240528T163000Z
-SUMMARY:LoFi/15
+DTSTAMP:20240604T232246Z
+DTSTART:20240614T140000Z
+DTEND:20240614T180000Z
+SUMMARY:BuildDay/3: PowerSync
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Join us for our 15th local-first meetup \
- , we have yet another fantastic lineup featu
- ring Herb Caudill (@herbcaudill)\, Cainã Costa (@cfcosta_)\, and Jeethu R
- ao (@jeethu).\n\nSchedule: \nCurrent landscape of on-device LLM inference\
- n-- Jeethu Rao\, @private_llm\nEventual Consistency in Adversarial Environ
- ments: CRDTs and Blockchains\n-- Cainã Costa\, @cfcosta_\nAlice and Bob i
- n Wonderland: Introducing @localfirst/auth\n-- Herb Caudill\, @devresults
+DESCRIPTION:Calling all LoFi builders! \nBuild Day/3 is coming up in in 10
+  days on Friday\, June 14\, 2024 7:00 AM. @cahofmeyr\, @DominicGBauer\, &
+ @k081e from PowerSync will be around to help you build local-first apps wi
+ th SQLite & PowerSync!
 END:VEVENT
 END:VCALENDAR

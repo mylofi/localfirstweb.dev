@@ -431,9 +431,15 @@
           },
           {
             "title": "Jess Martin",
-            "author": "@@jessmartin",
+            "author": "@jessmartin",
             "url": "https://x.com/jessmartin",
             "icon": "https://pbs.twimg.com/profile_images/1292828088565477376/FjgsLsU7_200x200.jpg"
+          },
+          {
+            "title": "James Arthur",
+            "author": "@thruflo",
+            "url": "https://x.com/thruflo",
+            "icon": "https://media.licdn.com/dms/image/D4D03AQG7yE6tP_gODA/profile-displayphoto-shrink_200_200/0/1699897098222?e=2147483647&v=beta&t=hopexyUcfil1vY97aeIZl7iUxRvWA8aMw2sK8-4S4EM"
           }
         ]
       },
