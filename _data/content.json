@@ -150,6 +150,12 @@
             "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
           },
           {
+            "title": "Dat Stack",
+            "author": "hyper- core/bee/store/drive (by dat-ecosystem)",
+            "url": "https://dat-ecosystem.org/",
+            "icon": "https://raw.githubusercontent.com/dat-ecosystem/organization/main/assets/logo%20%26%20visuals%20final/logo/Dat%20Ecosystem%20-%20Logo%20Design%20-%202022%20-%2002-04.svg"
+          },
+          {
             "title": "ElectricSQL",
             "author": "ElectricSQL team",
             "url": "https://electric-sql.com",
@@ -285,6 +291,12 @@
             "author": "dxos.org",
             "url": "https://dxos.org",
             "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
+          },
+          {
+            "title": "Dat Stack",
+            "author": "hyper- swarm/dht & autobase (by dat-ecosystem)",
+            "url": "https://dat-ecosystem.org/",
+            "icon": "https://raw.githubusercontent.com/dat-ecosystem/organization/main/assets/logo%20%26%20visuals%20final/logo/Dat%20Ecosystem%20-%20Logo%20Design%20-%202022%20-%2002-04.svg"
           },
           {
             "title": "hocuspocus",
