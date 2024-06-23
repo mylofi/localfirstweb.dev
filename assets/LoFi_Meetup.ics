@@ -2,16 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4d798b52-b70d-4a7c-86bb-67018a4434a5
+UID:a053a042-424b-44a8-8538-63433885b089
 SEQUENCE:0
-DTSTAMP:20240604T232246Z
-DTSTART:20240614T140000Z
-DTEND:20240614T180000Z
-SUMMARY:BuildDay/3: PowerSync
+DTSTAMP:20240623T000451Z
+DTSTART:20240625T150000Z
+DTEND:20240625T163000Z
+SUMMARY:LoFi/16
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Calling all LoFi builders! \nBuild Day/3 is coming up in in 10
-  days on Friday\, June 14\, 2024 7:00 AM. @cahofmeyr\, @DominicGBauer\, &
- @k081e from PowerSync will be around to help you build local-first apps wi
- th SQLite & PowerSync!
+DESCRIPTION:Tune in to #LoFi/16 at Tuesday\, June 25\, 2024 8:00 AM 👉
+ 🏽 http://lofi.so. We have a fantastic lineup featuring Max from Ditto\,
+  Rashid Aziz (@RazberryChai) from @basic_db\, and André Terron (@Andre_Te
+ rron) from mainframe.so\n\nOur first speaker\, Max\, is the cofounder of @
+ dittolive and will discuss p2p mesh networks & CRDTs.\n\nFor our second se
+ ssion\, Raz (@RazberryChai)\, founder and CEO of Basic Labs\, will discuss
+  the missing database for local-first.\n\nFor our final session\, André T
+ erron (@Andre_Terron)\, founder of mainframe.so\, will discuss rewriting a
+ ll software in local-first.\n\n\nLastly\, checkout \nhttps://youtube.com/p
+ laylist?list=PL4isNRKAwz2O9FxP97_EbOivIWWwSWt5j&si=DhSehqpOKUSLZZrc to cat
+ chup on the 2024 conference talks.
 END:VEVENT
 END:VCALENDAR

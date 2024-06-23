@@ -4,14 +4,14 @@
   "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
   "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg",
   "meetup": {
-    "date": "Friday June 14, 2024 @ 7AM PST",
-    "graphic": "/assets/images/BuildDay3.png",
-    "discord_link": "https://discord.gg/lofi-so?event=1243345510245470318",
-    "youtube_link": "https://www.youtube.com/live/Fm_BlBm1gTw?si=KhV4d19xPt5YTl24",
+    "date": "Tuesday June 25, 2024 @ 8AM PST",
+    "graphic": "/assets/images/meetup16.png",
+    "discord_link": "https://discord.gg/lofi-so?event=1247385713767612417",
+    "youtube_link": "https://youtube.com/live/Q83xhiS2enY?feature=share",
     "recording_link": "",
     "previous_graphic": "",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
-    "calendar_icon": "/assets/images/May28.png",
-    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=XzhvcDNjZDFsODUxa2NiOWc4Y3FqNmI5azhrb2plYjlvNzUzNDhiOWc3NHMzZ2NhNThjcmoyZ2kzNjAgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com"
+    "calendar_icon": "/assets/images/June25.png",
+    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2ZibmNzaWVyODNmMm1nMHY3MHRlMXJiYTggZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com"
   }
 }
