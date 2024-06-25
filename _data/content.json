@@ -210,6 +210,12 @@
             "icon": "https://rxdb.info/files/logo/logo.svg"
           },
           {
+            "title": "Scroll",
+            "author": "Breck Yunits",
+            "url": "https://scroll.pub",
+            "icon": "https://scroll.pub/blog/screenshot.png"
+          },
+          {
             "title": "Socket Runtime",
             "author": "Socket Runtime Team",
             "url": "https://github.com/socketsupply/socket",
