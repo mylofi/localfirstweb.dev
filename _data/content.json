@@ -335,6 +335,12 @@
             "icon": "http://sockethub.org/favicon.ico"
           },
           {
+            "title": "TinyBase",
+            "author": "James Pearce",
+            "url": "https://tinybase.org",
+            "icon": "https://tinybase.org/favicon.svg"
+          },
+          {
             "title": "Verdant",
             "author": "Grant Forrest",
             "url": "https://verdant.dev",
