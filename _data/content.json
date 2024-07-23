@@ -147,7 +147,7 @@
             "title": "DXOS",
             "author": "dxos.org",
             "url": "https://dxos.org",
-            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
+            "icon": "https://docs.dxos.org/images/logotype/dxos-hero-white.svg"
           },
           {
             "title": "Dat Stack",
@@ -284,13 +284,13 @@
             "title": "Ditto",
             "author": "Ditto Live, Inc",
             "url": "https://ditto.live",
-            "icon": "https://www.ditto.live/_next/static/media/blue.d20274dd.svg"
+            "icon": "https://pbs.twimg.com/profile_images/1627424762686476288/aD-H-f2__400x400.jpg"
           },
           {
             "title": "DXOS",
             "author": "dxos.org",
             "url": "https://dxos.org",
-            "icon": "https://docs.dxos.org/images/logotype/dxos-hero.svg"
+            "icon": "https://docs.dxos.org/images/logotype/dxos-hero-white.svg"
           },
           {
             "title": "Dat Stack",
@@ -439,7 +439,7 @@
             "title": "James Addison",
             "author": "@JungleSilicon",
             "url": "https://twitter.com/JungleSilicon",
-            "icon": "https://pbs.twimg.com/profile_images/1791889347911860224/pTyfkZVT_200x200.jpg"
+            "icon": "https://pbs.twimg.com/profile_images/1800793126740586496/UYZGJZZ3_400x400.jpg"
           },
           {
             "title": "Mauve Signweaver",
@@ -458,6 +458,12 @@
             "author": "@thruflo",
             "url": "https://x.com/thruflo",
             "icon": "https://media.licdn.com/dms/image/D4D03AQG7yE6tP_gODA/profile-displayphoto-shrink_200_200/0/1699897098222?e=2147483647&v=beta&t=hopexyUcfil1vY97aeIZl7iUxRvWA8aMw2sK8-4S4EM"
+          },
+          {
+            "title": "Aaron Boodman",
+            "author": "@aboodman",
+            "url": "https://x.com/aboodman",
+            "icon": "https://pbs.twimg.com/profile_images/1599851549337194496/TUE6LkYS_400x400.jpg"
           }
         ]
       },
