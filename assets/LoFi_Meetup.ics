@@ -2,23 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:a053a042-424b-44a8-8538-63433885b089
+UID:f7545d06-bc09-48d2-aa1c-77d7e6fc27f1
 SEQUENCE:0
-DTSTAMP:20240623T000451Z
-DTSTART:20240625T150000Z
-DTEND:20240625T163000Z
-SUMMARY:LoFi/16
+DTSTAMP:20240723T173959Z
+DTSTART:20240730T150000Z
+DTEND:20240730T163000Z
+SUMMARY:LoFi/17
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Tune in to #LoFi/16 at Tuesday\, June 25\, 2024 8:00 AM 👉
- 🏽 http://lofi.so. We have a fantastic lineup featuring Max from Ditto\,
-  Rashid Aziz (@RazberryChai) from @basic_db\, and André Terron (@Andre_Te
- rron) from mainframe.so\n\nOur first speaker\, Max\, is the cofounder of @
- dittolive and will discuss p2p mesh networks & CRDTs.\n\nFor our second se
- ssion\, Raz (@RazberryChai)\, founder and CEO of Basic Labs\, will discuss
-  the missing database for local-first.\n\nFor our final session\, André T
- erron (@Andre_Terron)\, founder of mainframe.so\, will discuss rewriting a
- ll software in local-first.\n\n\nLastly\, checkout \nhttps://youtube.com/p
- laylist?list=PL4isNRKAwz2O9FxP97_EbOivIWWwSWt5j&si=DhSehqpOKUSLZZrc to cat
- chup on the 2024 conference talks.
+DESCRIPTION:Tune in to #LoFi/17 on Tuesday\, July 30\, 2024 8:00 AM PST
+ 👉🏽 http://lofi.so. We have yet another fantastic lineup featuring St
+ epan (@stopachka) from instantdb.com\, James Addison (@JungleSilicon) and
+ James Pearce (@jamespearce) from @Tinybase. \n\nSchedule\n\nWriting a Grap
+ h-Based Sync Engine\n- Stepan Parunashvili\, @stopachka\nShapeshifting med
+ ia & collaboration\n- James Addison\, @JungleSilicon\nCRDTs are the Easy P
+ art\n- James Pearce\, @jamespearce\n\nLastly\, checkout \nhttps://youtube.
+ com/playlist?list=PL4isNRKAwz2O9FxP97_EbOivIWWwSWt5j&si=DhSehqpOKUSLZZrc t
+ o catchup on the 2024 conference talks.
 END:VEVENT
 END:VCALENDAR
