@@ -305,6 +305,12 @@
             "icon": "https://yjs.dev/images/logo/yjs.svg"
           },
           {
+            "title": "Logux",
+            "author": "Andrey Sitnik",
+            "url": "https://logux.org",
+            "icon": "https://logux.org/branding/logo-dark.svg"
+          },
+          {
             "title": "Loro",
             "author": "Loro",
             "url": "https://loro.dev/",
