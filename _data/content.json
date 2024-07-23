@@ -254,6 +254,17 @@
         ]
       },
       {
+        "title": "Identity and Authentication Management",
+        "items": [
+          {
+            "title": "Trust1Connector",
+            "author": "Michallis Pashidis",
+            "url": "https://rmc.t1t.io",
+            "icon": "https://i.imgur.com/uOr2AvA.png"
+          }
+        ]
+      },
+      {
         "title": "Syncing data",
         "items": [
           {
