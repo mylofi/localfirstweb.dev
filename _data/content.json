@@ -250,6 +250,12 @@
             "author": "Radek Pietruszewski / Nozbe",
             "url": "https://watermelondb.dev",
             "icon": "https://raw.githubusercontent.com/Nozbe/WatermelonDB/master/assets/icon128x128.png"
+          },
+          {
+            "title": "Trystero",
+            "author": "Dan Motzenbecker / Dmotz",
+            "url": "https://github.com/dmotz/trystero",
+            "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
           }
         ]
       },
@@ -363,6 +369,12 @@
             "author": "Kevin Jahns & contributors",
             "url": "https://yjs.dev",
             "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Trystero",
+            "author": "Dan Motzenbecker / Dmotz",
+            "url": "https://github.com/dmotz/trystero",
+            "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
           }
         ]
       },
@@ -386,7 +398,13 @@
             "author": "James Pearce",
             "url": "https://github.com/tinyplex/tinyrooms",
             "icon": "https://tinyrooms.jamesgpearce.partykit.dev/favicon.svg"
-          }
+          },
+          {
+            "title": "XR Fragments",
+            "author": "Leon van Kammen / coderofsalvation",
+            "url": "https://xrfragment.org",
+            "icon": "https://xrfragment.org/example/assets/logo.svg"
+          }          
         ]
       }
     ]
@@ -470,6 +488,12 @@
             "author": "@aboodman",
             "url": "https://x.com/aboodman",
             "icon": "https://pbs.twimg.com/profile_images/1599851549337194496/TUE6LkYS_400x400.jpg"
+          },
+          {
+            "title": "Coderofsalvation",
+            "author": "@coderofsalvation",
+            "url": "https://mastodon.online/@lvk",
+            "icon": "https://2wa.isvery.ninja/asset/img/pyramid_avatar.png"
           }
         ]
       },
