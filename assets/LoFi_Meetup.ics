@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:f7545d06-bc09-48d2-aa1c-77d7e6fc27f1
+UID:3805820e-55aa-45e2-9e2c-6497c4a13791
 SEQUENCE:0
-DTSTAMP:20240723T173959Z
-DTSTART:20240730T150000Z
-DTEND:20240730T163000Z
-SUMMARY:LoFi/17
+DTSTAMP:20240821T222401Z
+DTSTART:20240827T150000Z
+DTEND:20240827T163000Z
+SUMMARY:LoFi/18
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Tune in to #LoFi/17 on Tuesday\, July 30\, 2024 8:00 AM PST
- 👉🏽 http://lofi.so. We have yet another fantastic lineup featuring St
- epan (@stopachka) from instantdb.com\, James Addison (@JungleSilicon) and
- James Pearce (@jamespearce) from @Tinybase. \n\nSchedule\n\nWriting a Grap
- h-Based Sync Engine\n- Stepan Parunashvili\, @stopachka\nShapeshifting med
- ia & collaboration\n- James Addison\, @JungleSilicon\nCRDTs are the Easy P
- art\n- James Pearce\, @jamespearce\n\nLastly\, checkout \nhttps://youtube.
- com/playlist?list=PL4isNRKAwz2O9FxP97_EbOivIWWwSWt5j&si=DhSehqpOKUSLZZrc t
- o catchup on the 2024 conference talks.
+DESCRIPTION:📣 Tune in to #LoFi/18 at Tuesday\, August 27\, 2024 8:00 AM
+ \nWe have yet another fantastic lineup featuring Prashant Mittal (@prashan
+ t_mit)) from @ShovelCompany\, Kyle Simpson (@getifyX) and Matthew Linkous
+ (@matthew_linkous) from @triplit_dev\n\nSchedule\nHow do you make money? a
+ nd other FAQs\n- Matthew Linkous\, building @triplit_dev\nZero Server Data
+  Security\n- Kyle Simpson\, @getifyX\nA Filesystem for every Account\n- Pr
+ ashant Mittal\, building @ShovelCompany\n\nLastly\, checkout \nhttps://www
+ .youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup o
+ n the previous talks
 END:VEVENT
 END:VCALENDAR
