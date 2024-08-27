@@ -168,6 +168,12 @@
             "icon": "https://raw.githubusercontent.com/evoluhq/evolu/main/apps/web/public/favicon-32x32.png"
           },
           {
+            "title": "Liveblocks",
+            "author": "Liveblocks team",
+            "url": "https://liveblocks.io/",
+            "icon": "https://liveblocks.io/favicon.svg"
+          },
+          {
             "title": "Fireproof",
             "author": "Fireproof team",
             "url": "https://use-fireproof.com/",
@@ -309,6 +315,18 @@
             "author": "ueberdosis",
             "url": "https://tiptap.dev/hocuspocus/",
             "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Liveblocks Storage",
+            "author": "Liveblocks team",
+            "url": "https://liveblocks.io/realtime-apis/storage",
+            "icon": "https://liveblocks.io/favicon.svg"
+          },
+          {
+            "title": "Liveblocks Yjs",
+            "author": "Liveblocks team",
+            "url": "https://liveblocks.io/realtime-apis/yjs",
+            "icon": "https://liveblocks.io/favicon.svg"
           },
           {
             "title": "Logux",
