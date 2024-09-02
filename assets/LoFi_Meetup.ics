@@ -2,21 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:3805820e-55aa-45e2-9e2c-6497c4a13791
+UID:b9ecf23d-f99e-443a-921e-43a2c8449f97
 SEQUENCE:0
-DTSTAMP:20240821T222401Z
-DTSTART:20240827T150000Z
-DTEND:20240827T163000Z
-SUMMARY:LoFi/18
+DTSTAMP:20240902T143316Z
+DTSTART:20240924T150000Z
+DTEND:20240924T150000Z
+SUMMARY:LoFi/19
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:📣 Tune in to #LoFi/18 at Tuesday\, August 27\, 2024 8:00 AM
- \nWe have yet another fantastic lineup featuring Prashant Mittal (@prashan
- t_mit)) from @ShovelCompany\, Kyle Simpson (@getifyX) and Matthew Linkous
- (@matthew_linkous) from @triplit_dev\n\nSchedule\nHow do you make money? a
- nd other FAQs\n- Matthew Linkous\, building @triplit_dev\nZero Server Data
-  Security\n- Kyle Simpson\, @getifyX\nA Filesystem for every Account\n- Pr
- ashant Mittal\, building @ShovelCompany\n\nLastly\, checkout \nhttps://www
- .youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup o
- n the previous talks
+DESCRIPTION:An Epic call TBD
 END:VEVENT
 END:VCALENDAR

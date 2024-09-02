@@ -13,9 +13,7 @@
     <img class="feature" src="{{meetup.graphic}}" />
   </a>
   {% endif %}
-  <a class="icons" href="{{meetup.calendar_ics}}" download>
-    <img class="icons" src="{{info.meetup.calendar_icon}}" />
-  </a>
+  <a class="icons" href="{{meetup.calendar_ics}}" download> {% include calendar_icon.html%} </a>
   <a class="icons" target="_blank" href="{{meetup.youtube_link}}">
     <img class="icons" src="{{info.youtube_icon}}" />
   </a>
