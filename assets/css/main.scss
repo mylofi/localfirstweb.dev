@@ -91,13 +91,15 @@ aside {
   a.icons {
     text-decoration: none;
     padding: 0 1rem;
+    display: inline-flex; // Added to align icons
+    align-items: center;  // Added to align icons
   }
   div.heading {
     margin: -1rem 0 1rem;
   }
   img.icons {
     display: inline;
-    height: 1.6rem;
+    height: 2.4rem;
     vertical-align: middle;
     padding: 0.4rem 0;
   }

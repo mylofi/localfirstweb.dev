@@ -1,0 +1,38 @@
+{% assign meetup = site.data.heading.meetup %}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="50" height="50" class="icons">
+  <!-- Calendar base -->
+  <rect x="20" y="20" width="160" height="160" rx="30" fill="white" />
+
+  <!-- Larger red top section -->
+  <rect x="20" y="20" width="160" height="80" rx="12" fill="#FF6347" />
+
+  <!-- Calendar ring holders -->
+  <circle cx="60" cy="20" r="10" fill="#333" />
+  <circle cx="140" cy="20" r="10" fill="#333" />
+
+  <!-- Larger Month text -->
+  <text
+    x="100"
+    y="80"
+    font-family="Arial, sans-serif"
+    font-size="52"
+    font-weight="bold"
+    fill="white"
+    text-anchor="middle"
+  >
+    {{meetup.cal_month}}
+  </text>
+
+  <!-- Date text -->
+  <text
+    x="100"
+    y="160"
+    font-family="Arial, sans-serif"
+    font-size="52"
+    font-weight="bold"
+    fill="#000000"
+    text-anchor="middle"
+  >
+    {{meetup.cal_day}}
+  </text>
+</svg>
