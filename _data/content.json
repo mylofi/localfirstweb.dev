@@ -189,7 +189,7 @@
             "title": "Instant",
             "author": "Stepan Parunashvili",
             "url": "https://www.instantdb.com",
-            "icon": "https://www.instantdb.com/playful_sun.svg"
+            "icon": "https://www.instantdb.com/img/icon/apple-touch-icon-152x152.png"
           },
           {
             "title": "m-ld",
@@ -207,7 +207,7 @@
             "title": "remoteStorage",
             "author": "remoteStorage contributors",
             "url": "https://remotestorage.io",
-            "icon": "https://remotestorage.io/img/icon.svg"
+            "icon": "https://remotestorage.io/logo.svg"
           },
           {
             "title": "RxDB",
@@ -261,7 +261,7 @@
             "title": "Trystero",
             "author": "Dan Motzenbecker / Dmotz",
             "url": "https://github.com/dmotz/trystero",
-            "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Font_Awesome_5_solid_handshake.svg"
           }
         ]
       },
@@ -392,7 +392,7 @@
             "title": "Trystero",
             "author": "Dan Motzenbecker / Dmotz",
             "url": "https://github.com/dmotz/trystero",
-            "icon": "https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_handshake.svg"
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Font_Awesome_5_solid_handshake.svg"
           }
         ]
       },
@@ -422,7 +422,7 @@
             "author": "Leon van Kammen / coderofsalvation",
             "url": "https://xrfragment.org",
             "icon": "https://xrfragment.org/example/assets/logo.svg"
-          }          
+          }
         ]
       }
     ]
@@ -481,7 +481,7 @@
             "title": "James Addison",
             "author": "@JungleSilicon",
             "url": "https://twitter.com/JungleSilicon",
-            "icon": "https://pbs.twimg.com/profile_images/1800793126740586496/UYZGJZZ3_400x400.jpg"
+            "icon": "https://pbs.twimg.com/profile_images/1829702628470571011/whdoDUWu_400x400.jpg"
           },
           {
             "title": "Mauve Signweaver",
