@@ -4,4 +4,4 @@
 .vscode
 _site
 Gemfile.lock
-bundle/
+vendor/ 
