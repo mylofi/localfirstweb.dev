@@ -216,6 +216,12 @@
             "icon": "https://rxdb.info/files/logo/logo.svg"
           },
           {
+            "title": "SignalDB",
+            "author": "Max Nowack",
+            "url": "https://signaldb.js.org",
+            "icon": "https://signaldb.js.org/logo.svg"
+          },
+          {
             "title": "Socket Runtime",
             "author": "Socket Runtime Team",
             "url": "https://github.com/socketsupply/socket",
