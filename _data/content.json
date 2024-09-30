@@ -393,6 +393,12 @@
             "author": "Dan Motzenbecker / Dmotz",
             "url": "https://github.com/dmotz/trystero",
             "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Font_Awesome_5_solid_handshake.svg"
+          },
+          {
+            "title": "Legend State",
+            "author": "Jay Meistrich",
+            "url": "https://github.com/LegendApp/legend-state",
+            "icon": "https://avatars.githubusercontent.com/u/60373862?s=192&v=4"
           }
         ]
       },
@@ -512,7 +518,13 @@
             "author": "@coderofsalvation",
             "url": "https://mastodon.online/@lvk",
             "icon": "https://2wa.isvery.ninja/asset/img/pyramid_avatar.png"
-          }
+          },
+          {
+            "title": "Jay Meistrich",
+            "author": "@jmeistrich",
+            "url": "https://x.com/jmeistrich",
+            "icon": "https://pbs.twimg.com/profile_images/509425693726224384/9TfNlE-Y_400x400.jpeg"
+          },
         ]
       },
       {
@@ -594,6 +606,12 @@
             "author": "Tender team",
             "url": "https://tender.run/",
             "icon": "https://tender.run/logo.svg"
+          },
+          {
+            "title": "Legend",
+            "author": "Jay Meistrich",
+            "url": "https://www.legendapp.com/",
+            "icon": "https://www.legendapp.com/img/Logomark_(White).svg"
           }
         ]
       }
