@@ -317,6 +317,12 @@
             "icon": "https://yjs.dev/images/logo/yjs.svg"
           },
           {
+            "title": "Jamsocket",
+            "author": "Jamsocket team",
+            "url": "https://jamsocket.com/",
+            "icon": "https://jamsocket.com/favicon.svg"
+          },
+          {
             "title": "Liveblocks Storage",
             "author": "Liveblocks team",
             "url": "https://liveblocks.io/realtime-apis/storage",
@@ -387,6 +393,12 @@
             "author": "Kevin Jahns & contributors",
             "url": "https://yjs.dev",
             "icon": "https://yjs.dev/images/logo/yjs.svg"
+          },
+          {
+            "title": "Y-Sweet",
+            "author": "Jamsocket team",
+            "url": "https://jamsocket.com/y-sweet",
+            "icon": "https://demos.y-sweet.dev/icon.png"
           },
           {
             "title": "Trystero",
