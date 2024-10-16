@@ -2,13 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:b9ecf23d-f99e-443a-921e-43a2c8449f97
+UID:26ffcbef-2689-4987-b5a6-5ef839c634d4
 SEQUENCE:0
-DTSTAMP:20240902T143316Z
-DTSTART:20240924T150000Z
-DTEND:20240924T163000Z
-SUMMARY:LoFi/19
+DTSTAMP:20241016T050423Z
+DTSTART:20241029T150000Z
+DTEND:20241029T163000Z
+SUMMARY:LoFi/20
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:An Epic call TBD
+DESCRIPTION:📣 Tune in to #LoFi/20 at 8:00 AM PST on Tuesday\, October 2
+ 9\, 2024 👉🏽 http://lofi.so We have yet another fantastic lineup feat
+ uring Brooklyn Zelenka (@expede)\, Niko Bonnieure (@nextgraph) and Yonatan
+  Feleke (@devYonz) from @vella_ai\n\nSchedule\nSafe in the Beehive: Local-
+ First with E2EE & Mutation Control\n- Brooklyn Zelenka (@expede)\, Ink&Swi
+ tch\nLocal-First Web of Data: presenting NextGraph\n- Niko Bonnieure (@nex
+ tgraph)\, NextGraph\nVella.ai MVP Product Hunt Launch\n- Yonatan Feleke (@
+ devYonz)\, building Vella.ai\n\n\nLastly\, checkout \nhttps://www.youtube.
+ com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup on the pre
+ vious talks
 END:VEVENT
 END:VCALENDAR
