@@ -198,6 +198,12 @@
             "icon": "https://m-ld.org/m-ld.inverse.svg"
           },
           {
+            "title": "NextGraph",
+            "author": "Niko Bonnieure",
+            "url": "https://nextgraph.org/",
+            "icon": "https://nextgraph.org/favicon.svg"
+          },
+          {
             "title": "PouchDB",
             "author": "PouchDB contributors",
             "url": "https://pouchdb.com",
@@ -357,6 +363,12 @@
             "author": "George Svarovsky et al.",
             "url": "https://m-ld.org/",
             "icon": "https://m-ld.org/m-ld.inverse.svg"
+          },
+          {
+            "title": "NextGraph",
+            "author": "Niko Bonnieure",
+            "url": "https://nextgraph.org/",
+            "icon": "https://nextgraph.org/favicon.svg"
           },
           {
             "title": "PowerSync",
