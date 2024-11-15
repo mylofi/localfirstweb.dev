@@ -2,22 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:26ffcbef-2689-4987-b5a6-5ef839c634d4
+UID:4e4721e1-93f1-4a4c-9917-8751d562a8ba
 SEQUENCE:0
-DTSTAMP:20241016T050423Z
-DTSTART:20241029T150000Z
-DTEND:20241029T163000Z
-SUMMARY:LoFi/20
+DTSTAMP:20241115T142642Z
+DTSTART:20241126T160000Z
+DTEND:20241126T163000Z
+SUMMARY:LoFi/21
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:📣 Tune in to #LoFi/20 at 8:00 AM PST on Tuesday\, October 2
- 9\, 2024 👉🏽 http://lofi.so We have yet another fantastic lineup feat
- uring Brooklyn Zelenka (@expede)\, Niko Bonnieure (@nextgraph) and Yonatan
-  Feleke (@devYonz) from @vella_ai\n\nSchedule\nSafe in the Beehive: Local-
- First with E2EE & Mutation Control\n- Brooklyn Zelenka (@expede)\, Ink&Swi
- tch\nLocal-First Web of Data: presenting NextGraph\n- Niko Bonnieure (@nex
- tgraph)\, NextGraph\nVella.ai MVP Product Hunt Launch\n- Yonatan Feleke (@
- devYonz)\, building Vella.ai\n\n\nLastly\, checkout \nhttps://www.youtube.
- com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup on the pre
- vious talks
+DESCRIPTION:Join us on Tuesday\, November 26\, 2024 8:00 AM (your time) fo
+ r yet another exciting lineup featuring Felicia Chang (@felchang)\,  from
+  @jamsockethq\, Sahil Lalani (@SahilLalani0) from @surferprotocol and Zixu
+ an Chen (@zx_loro) from  @loro_dev\n\nSchedule:\nY-Sweet: persistence and
+ sync for Yjs CRDTs\n- Felicia Chang (@felchang) \nLocal-first personal dat
+ a exporting and applications\n-  Sahil Lalani (@SahilLalani0)\nCollaborati
+ ve + version-controlled data with CRDTs\n- Zixuan Chen (@zx_loro)\n\nWant
+ more? Catchup on the previous talks https://www.youtube.com/playlist?list=
+ PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to
 END:VEVENT
 END:VCALENDAR
