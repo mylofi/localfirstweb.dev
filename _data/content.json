@@ -280,6 +280,12 @@
       {
         "title": "Syncing data",
         "items": [
+           {
+            "title": "Jazz Tools",
+            "author": "Anselm / Garden Computing",
+            "url": "https://jazz.tools/",
+            "icon": "https://jazz.tools/favicon.ico"
+          },
           {
             "title": "Amplify DataStore",
             "author": "Amazon Web Services",
