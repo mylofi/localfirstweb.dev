@@ -429,6 +429,12 @@
             "author": "Jay Meistrich",
             "url": "https://github.com/LegendApp/legend-state",
             "icon": "https://avatars.githubusercontent.com/u/60373862?s=192&v=4"
+          },
+          {
+            "title": "Couchbase Capella",
+            "author": "Couchbase Inc",
+            "url": "https://www.couchbase.com/products/capella",
+            "icon": "https://www.couchbase.com/wp-content/uploads/2024/04/Capella-Logo-1.svg"
           }
         ]
       },
