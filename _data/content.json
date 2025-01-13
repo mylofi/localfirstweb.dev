@@ -305,6 +305,12 @@
             "icon": "https://collabs.readthedocs.io/en/latest/_static/favicon.ico"
           },
           {
+            "title": "CouchDB",
+            "author": "apache couchdb team",
+            "url": "https://couchdb.apache.org",
+            "icon": "https://couchdb.apache.org/image/couch@2x.png"
+          },
+          {
             "title": "Dexie Cloud",
             "author": "Awarica AB",
             "url": "https://dexie.org/cloud/",
@@ -630,6 +636,12 @@
             "author": "Grant Forrest",
             "url": "https://gnocchi.club",
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
+          },
+           {
+            "title": "Obsidian",
+            "author": "Dyynalist inc",
+            "url": "https://obsidian.md",
+            "icon": "https://obsidian.md/images/2023-06-logo.png"
           },
           {
             "title": "Strut.io",
