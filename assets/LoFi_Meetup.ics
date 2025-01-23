@@ -2,21 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:4e4721e1-93f1-4a4c-9917-8751d562a8ba
+UID:2209d75c-c455-49ac-bdeb-e32ad4aec3bb
 SEQUENCE:0
-DTSTAMP:20241115T142642Z
-DTSTART:20241126T160000Z
-DTEND:20241126T163000Z
-SUMMARY:LoFi/21
+DTSTAMP:20250123T101828Z
+DTSTART:20250128T160000Z
+DTEND:20250128T163000Z
+SUMMARY:LoFi/22
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:Join us on Tuesday\, November 26\, 2024 8:00 AM (your time) fo
- r yet another exciting lineup featuring Felicia Chang (@felchang)\,  from
-  @jamsockethq\, Sahil Lalani (@SahilLalani0) from @surferprotocol and Zixu
- an Chen (@zx_loro) from  @loro_dev\n\nSchedule:\nY-Sweet: persistence and
- sync for Yjs CRDTs\n- Felicia Chang (@felchang) \nLocal-first personal dat
- a exporting and applications\n-  Sahil Lalani (@SahilLalani0)\nCollaborati
- ve + version-controlled data with CRDTs\n- Zixuan Chen (@zx_loro)\n\nWant
- more? Catchup on the previous talks https://www.youtube.com/playlist?list=
- PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to
+DESCRIPTION:📣 Tune in to #LoFi/22 on Tuesday\, January 28\, 2025 at 7:0
+ 0 PM for yet another exciting lineup featuring featuring Hakan Shehu (@h
+ akanshehu) from @Colanode\, Michiel de Jong(@michielbdejong) from http://u
+ nhosted.org\, and Aaron Boodman (@aboodman) from @Rocicorp.\n\nSchedule\nB
+ uilding Colanode\, an open-source & local-first collaboration workspace\n-
+  Hakan Shehu (@hakanshehu)\n\nUnhosted web apps with remoteStorage.js\n- M
+ ichiel de Jong (@michielbdejong)\n\nIntroducing Zero: A Sync Engine for th
+ e Whole Web\n- Aaron Boodman (@aboodman)\n\nLastly\, checkout \nhttps://ww
+ w.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup
+ on the previous talks
 END:VEVENT
 END:VCALENDAR

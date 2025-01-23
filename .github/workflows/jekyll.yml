@@ -27,26 +27,48 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Ensure Ruby is Installed
+        run: |
+          # Ensure ruby-build is installed
+          if ! command -v ruby-build &> /dev/null; then
+            sudo apt-get update && sudo apt-get install -y git build-essential libssl-dev libreadline-dev zlib1g-dev
+            git clone https://github.com/rbenv/ruby-build.git
+            sudo PREFIX=/usr/local ./ruby-build/install.sh
+          fi
+
+          # Install Ruby 3.1.4 if not already installed
+          if [ ! -f /opt/hostedtoolcache/Ruby/3.1.4/x64.complete ]; then
+            sudo mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64
+            sudo ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+            sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
+          fi
+
+          # Add Ruby to PATH
+          echo "/opt/hostedtoolcache/Ruby/3.1.4/x64/bin" >> $GITHUB_PATH
+
       - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: '3.1'
+          bundler-cache: true
+          cache-version: 0
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
