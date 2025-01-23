@@ -4,15 +4,15 @@
   "youtube_icon": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
   "gcal_icon": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Calendar_icon_%282020%29.svg",
   "meetup": {
-    "cal_day": "26",
-    "cal_month": "Nov",
-    "date": "Tuesday November 26, 2024 @ 8AM PST",
-    "graphic": "/assets/images/meetup21.png",
-    "discord_link": "https://discord.gg/lofi-so?event=1301668465618452572",
-    "youtube_link": "https://youtube.com/live/nmPFItDKFsA?feature=share",
+    "cal_day": "28",
+    "cal_month": "Jan",
+    "date": "Tuesday January 28, 2025 @ 8AM PST",
+    "graphic": "/assets/images/meetup22.png",
+    "discord_link": "https://discord.gg/lofi-so?event=1312983350033780807",
+    "youtube_link": "https://youtube.com/live/i66WxqUz0u8?feature=share",
     "recording_link": "",
     "previous_graphic": "",
     "calendar_ics": "/assets/LoFi_Meetup.ics",
-    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=N3Nsa2czbWM5MmU2MjQyOHBpc2ZoNWxtcmkgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com"
+    "gcal_link": "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmR0aHQ1ZTRvNTFxYW5uMnE4bTdtNW81bWsgZjgwNGE4ZjU3MGNiZThiOWNmZDk1MTg3MzJmMjcyM2E1MzcxMWEyMTc1OTYyZTkwZDU4NTgxN2MzYWNlMjllM0Bn&tmsrc=f804a8f570cbe8b9cfd9518732f2723a53711a2175962e90d585817c3ace29e3%40group.calendar.google.com"
   }
 }
