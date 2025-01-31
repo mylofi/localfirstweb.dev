@@ -451,6 +451,17 @@
         ]
       },
       {
+        "title": "Analyzing data",
+        "items": [
+          {
+            "title": "ao_core: locally learning AI models",
+            "author": "AO Labs",
+            "url": "https://www.aolabs.ai/",
+            "icon": "https://i.imgur.com/0PaP7fr.png"
+          }
+        ]
+      },
+      {
         "title": "Examples",
         "items": [
           {
