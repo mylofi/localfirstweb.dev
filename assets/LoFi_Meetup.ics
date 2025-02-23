@@ -2,22 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//sebbo.net//ical-generator//EN
 BEGIN:VEVENT
-UID:2209d75c-c455-49ac-bdeb-e32ad4aec3bb
+UID:af50c988-3904-47c1-b370-f3430f99e0ea
 SEQUENCE:0
-DTSTAMP:20250123T101828Z
-DTSTART:20250128T160000Z
-DTEND:20250128T163000Z
-SUMMARY:LoFi/22
+DTSTAMP:20250223T173346Z
+DTSTART:20250225T160000Z
+DTEND:20250225T163000Z
+SUMMARY:LoFi/23
 LOCATION:Discord: LoFi.so (Local First Software) server\, Stage
-DESCRIPTION:📣 Tune in to #LoFi/22 on Tuesday\, January 28\, 2025 at 7:0
- 0 PM for yet another exciting lineup featuring featuring Hakan Shehu (@h
- akanshehu) from @Colanode\, Michiel de Jong(@michielbdejong) from http://u
- nhosted.org\, and Aaron Boodman (@aboodman) from @Rocicorp.\n\nSchedule\nB
- uilding Colanode\, an open-source & local-first collaboration workspace\n-
-  Hakan Shehu (@hakanshehu)\n\nUnhosted web apps with remoteStorage.js\n- M
- ichiel de Jong (@michielbdejong)\n\nIntroducing Zero: A Sync Engine for th
- e Whole Web\n- Aaron Boodman (@aboodman)\n\nLastly\, checkout \nhttps://ww
- w.youtube.com/playlist?list=PLTbD2QA-VMnXFsLbuPGz1H-Najv9MD2-H to catchup
- on the previous talks
+DESCRIPTION:Tune in for #LoFi/23 on Tuesday\, February 25\, 2025 @ 8 AM PS
+ T for yet another exciting lineup featuring James Pearce (@jamespearce) fr
+ om \n@tinybasejs\, Jake Lazaroff (@jlazaroff) from @JamsocketHQ and Tom La
+ rkworthy (@tomlarkworthy) from Lopecode\n\nSchedule of the talks\nUndersta
+ nding the local-first jigsaw by \n- James Pearce (@jamespearce)\nModeling
+ State for Local First Apps by \n- Jake Lazaroff (@jlazaroff)\nLocal-firsti
+ fying Observable Notebooks\n- Tom Larkworthy (@tomlarkworthy)
 END:VEVENT
 END:VCALENDAR
