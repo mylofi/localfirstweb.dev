@@ -130,7 +130,7 @@ lot of latent interest in the idea suddenly had a focus.
 
 Evidently that interest was quickly going to outgrow my static web page. And as
 if to make sure I got that point, I got a message from Yonatan
-([@founderYonz](https://twitter.com/founderYonz)), a Harvard Business School
+([@devYonz](https://twitter.com/devYonz)), a Harvard Business School
 graduate who started using TinyBase after discovering my [local-first
 talk](https://tripleodeon.com/2022/11/closing-the-gap-between-your-users-and-their-data)
 @JavaScriptCon. The two of us had been chatting about creating a local-first
