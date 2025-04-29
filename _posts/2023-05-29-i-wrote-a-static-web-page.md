@@ -69,7 +69,7 @@ Switch. In summary, they identify seven principles for local-first
 applications:
 
 - No spinners: your work at your fingertips
-- Your work is not trapped on one device\
+- Your work is not trapped on one device
 - The network is optional
 - Seamless collaboration with your colleagues
 - Your work should continue to be accessible indefinitely
