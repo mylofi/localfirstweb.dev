@@ -12,7 +12,7 @@
   <a href="{{meetup.discord_link}}" target="_blank">
     <img class="feature" src="{{meetup.graphic}}" />
   </a>
-  {% endif %}
+
   <a class="icons" href="{{meetup.calendar_ics}}" download> {% include calendar_icon.html%} </a>
   <a class="icons" target="_blank" href="{{meetup.youtube_link}}">
     <img class="icons" src="{{info.youtube_icon}}" />
@@ -21,8 +21,10 @@
     <img class="icons" src="{{info.gcal_icon}}" />
   </a>
   <br />
-  {{meetup.date}}
   <br />
+    {% endif %}
+  {{meetup.date}}
+
   <br />
   <a href="{{info.lofi_playlist}}" target="_blank">Catch up on the previous talks</a>
   {% if meetup.previous_graphic != '' %}
