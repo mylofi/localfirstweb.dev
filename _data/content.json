@@ -280,7 +280,7 @@
       {
         "title": "Syncing data",
         "items": [
-           {
+          {
             "title": "Jazz Tools",
             "author": "Anselm / Garden Computing",
             "url": "https://jazz.tools/",
@@ -572,7 +572,7 @@
             "author": "@jmeistrich",
             "url": "https://x.com/jmeistrich",
             "icon": "https://pbs.twimg.com/profile_images/509425693726224384/9TfNlE-Y_400x400.jpeg"
-          },
+          }
         ]
       },
       {
@@ -637,7 +637,7 @@
             "url": "https://gnocchi.club",
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
           },
-           {
+          {
             "title": "Obsidian",
             "author": "Dyynalist inc",
             "url": "https://obsidian.md",
@@ -666,6 +666,12 @@
             "author": "Jay Meistrich",
             "url": "https://www.legendapp.com/",
             "icon": "https://www.legendapp.com/img/Logomark_(White).svg"
+          },
+          {
+            "title": "Radicle",
+            "author": "Radicle Team",
+            "url": "https://www.radicle.xyz/",
+            "icon": "https://radicle.xyz/assets/images/radicle.svg"
           }
         ]
       }
