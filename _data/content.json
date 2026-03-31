@@ -620,6 +620,12 @@
             "icon": "https://app.bangle.io/icon-transparent_x512.png"
           },
           {
+            "title": "Beetroot",
+            "author": "Max Nardit",
+            "url": "https://max.nardit.com/beetroot",
+            "icon": "https://raw.githubusercontent.com/mnardit/beetroot-releases/main/icons/64x64.png"
+          },
+          {
             "title": "DXOS Composer",
             "author": "dxos.org",
             "url": "https://composer.space",
