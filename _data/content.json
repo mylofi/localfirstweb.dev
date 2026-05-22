@@ -666,6 +666,12 @@
             "author": "Jay Meistrich",
             "url": "https://www.legendapp.com/",
             "icon": "https://www.legendapp.com/img/Logomark_(White).svg"
+          },
+          {
+            "title": "Motif — Capture every note",
+            "author": "Byant.dev",
+            "url": "https://motif.byant.dev/",
+            "icon": "https://motif.byant.dev/favicon.ico"
           }
         ]
       }
