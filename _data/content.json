@@ -443,6 +443,12 @@
             "icon": "https://avatars.githubusercontent.com/u/60373862?s=192&v=4"
           },
           {
+            "title": "ZamSync",
+            "author": "Etoile-Bleu",
+            "url": "https://github.com/Etoile-Bleu/ZamSync",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
             "title": "Zero",
             "author": "Rocicorp",
             "url": "https://zero.rocicorp.dev",
@@ -572,7 +578,7 @@
             "author": "@jmeistrich",
             "url": "https://x.com/jmeistrich",
             "icon": "https://pbs.twimg.com/profile_images/509425693726224384/9TfNlE-Y_400x400.jpeg"
-          },
+          }
         ]
       },
       {
@@ -651,7 +657,7 @@
           },
           {
             "title": "Textorama",
-            "author": "João Melo",
+            "author": "Joao Melo",
             "url": "https://textorama.melo.plus/",
             "icon": "https://textorama.melo.plus/android-chrome-192x192.png"
           },
