@@ -156,6 +156,12 @@
             "icon": "https://raw.githubusercontent.com/dat-ecosystem/organization/main/assets/logo%20%26%20visuals%20final/logo/Dat%20Ecosystem%20-%20Logo%20Design%20-%202022%20-%2002-04.svg"
           },
           {
+            "title": "durable-local",
+            "author": "Sarwagya Singh",
+            "url": "https://oss.sarwagya.wtf/durable-local/docs",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
             "title": "ElectricSQL",
             "author": "ElectricSQL team",
             "url": "https://electric-sql.com",
@@ -333,6 +339,18 @@
             "author": "hyper- swarm/dht & autobase (by dat-ecosystem)",
             "url": "https://dat-ecosystem.org/",
             "icon": "https://raw.githubusercontent.com/dat-ecosystem/organization/main/assets/logo%20%26%20visuals%20final/logo/Dat%20Ecosystem%20-%20Logo%20Design%20-%202022%20-%2002-04.svg"
+          },
+          {
+            "title": "ghost",
+            "author": "Sarwagya Singh",
+            "url": "https://oss.sarwagya.wtf/ghost/docs",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+          },
+          {
+            "title": "handoff",
+            "author": "Sarwagya Singh",
+            "url": "https://oss.sarwagya.wtf/handoff/docs",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
           },
           {
             "title": "hocuspocus",
@@ -636,6 +654,12 @@
             "author": "Grant Forrest",
             "url": "https://gnocchi.club",
             "icon": "https://gnocchi.club/android-chrome-512x512.png"
+          },
+          {
+            "title": "Local",
+            "author": "Sarwagya Singh",
+            "url": "https://local.sarwagya.wtf",
+            "icon": "https://github.githubassets.com/favicons/favicon-dark.svg"
           },
            {
             "title": "Obsidian",
