@@ -626,16 +626,16 @@
             "icon": "https://composer.space/android-chrome-512x512.png"
           },
           {
-            "title": "Ferrow",
-            "author": "Chris Ruzylo",
-            "url": "https://ferrow.ai",
-            "icon": "https://ferrow.ai/favicon.svg"
-          },
-          {
             "title": "Excalidraw",
             "author": "Excalidraw contributors",
             "url": "https://excalidraw.com",
             "icon": "https://excalidraw.com/favicon.ico"
+          },
+          {
+            "title": "Ferrow",
+            "author": "Chris Ruzylo",
+            "url": "https://ferrow.ai",
+            "icon": "https://ferrow.ai/favicon.svg"
           },
           {
             "title": "Gnocchi.club",
