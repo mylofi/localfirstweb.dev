@@ -472,6 +472,12 @@
             "icon": "https://tinyrooms.jamesgpearce.partykit.dev/favicon.svg"
           },
           {
+            "title": "Validation Ledger",
+            "author": "David Turner",
+            "url": "https://validation-ledger.vercel.app",
+            "icon": "https://validation-ledger.vercel.app/favicon.svg"
+          },
+          {
             "title": "XR Fragments",
             "author": "Leon van Kammen / coderofsalvation",
             "url": "https://xrfragment.org",
